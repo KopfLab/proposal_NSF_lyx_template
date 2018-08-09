@@ -1,0 +1,263 @@
+#LyX 2.2 created this file. For more info see http://www.lyx.org/
+\lyxformat 508
+\begin_document
+\begin_header
+\save_transient_properties true
+\origin unavailable
+\textclass style/nsf
+\use_default_options false
+\maintain_unincluded_children false
+\language english
+\language_package none
+\inputencoding auto
+\fontencoding default
+\font_roman "default" "default"
+\font_sans "default" "default"
+\font_typewriter "default" "default"
+\font_math "auto" "auto"
+\font_default_family default
+\use_non_tex_fonts false
+\font_sc false
+\font_osf false
+\font_sf_scale 100 100
+\font_tt_scale 100 100
+\graphics default
+\default_output_format default
+\output_sync 0
+\bibtex_command default
+\index_command default
+\paperfontsize default
+\spacing single
+\use_hyperref false
+\papersize default
+\use_geometry false
+\use_package amsmath 1
+\use_package amssymb 0
+\use_package cancel 0
+\use_package esint 1
+\use_package mathdots 0
+\use_package mathtools 0
+\use_package mhchem 0
+\use_package stackrel 0
+\use_package stmaryrd 0
+\use_package undertilde 0
+\cite_engine basic
+\cite_engine_type default
+\biblio_style plain
+\use_bibtopic false
+\use_indices false
+\paperorientation portrait
+\suppress_date false
+\justification true
+\use_refstyle 0
+\index Index
+\shortcut idx
+\color #008000
+\end_index
+\secnumdepth 3
+\tocdepth 3
+\paragraph_separation indent
+\paragraph_indentation default
+\quotes_language english
+\papercolumns 1
+\papersides 1
+\paperpagestyle default
+\tracking_changes false
+\output_changes false
+\html_math_output 0
+\html_css_as_file 0
+\html_be_strict false
+\end_header
+
+\begin_body
+
+\begin_layout ProposalSection
+D
+\end_layout
+
+\begin_layout Section
+Project Description
+\end_layout
+
+\begin_layout Subsection
+Introduction
+\end_layout
+
+\begin_layout Subsection
+Proposed Study
+\end_layout
+
+\begin_layout Standard
+The Project Description should provide a clear statement of the work to
+ be undertaken and must include: objectives for the period of the proposed
+ work and expected significance; relation to longer-term goals of the PI's
+ project; and relation to the present state of knowledge in the field, to
+ work in progress by the PI under other support and to work in progress
+ elsewhere.
+\end_layout
+
+\begin_layout Standard
+The Project Description should outline the general plan of work, including
+ the broad design of activities to be undertaken, and, where appropriate,
+ provide a clear description of experimental methods and procedures.
+ Proposers should address what they want to do, why they want to do it,
+ how they plan to do it, how they will know if they succeed, and what benefits
+ could accrue if the project is successful.
+ The project activities may be based on previously established and/or innovative
+ methods and approaches, but in either case must be well justified.
+ These issues apply to both the technical aspects of the proposal and the
+ way in which the project may make broader contributions.
+\end_layout
+
+\begin_layout Subsection
+Broader Impacts of the Proposed Work
+\end_layout
+
+\begin_layout Standard
+The Project Description must contain, as a separate section within the narrative
+, a section labeled 
+\begin_inset Quotes eld
+\end_inset
+
+Broader Impacts of the Proposed Work".
+ This section should provide a discussion of the broader impacts of the
+ proposed activities.
+ Broader impacts may be accomplished through the research itself, through
+ the activities that are directly related to specific research projects,
+ or through activities that are supported by, but are complementary to the
+ project.
+ NSF values the advancement of scientific knowledge and activities that
+ contribute to the achievement of societally relevant outcomes.
+ Such outcomes include, but are not limited to: full participation of women,
+ persons with disabilities, and underrepresented minorities in science,
+ technology, engineering, and mathematics (STEM); improved STEM education
+ and educator development at any level; increased public scientific literacy
+ and public engagement with science and technology; improved well-being
+ of individuals in society; development of a diverse,globally competitive
+ STEM workforce; increased partnerships between academia, industry, and
+ others; improved national security; increased economic competitiveness
+ of the United States; and enhanced infrastructure for research and education.
+\end_layout
+
+\begin_layout Subsection
+Results from Prior NSF Support
+\end_layout
+
+\begin_layout Standard
+If any PI or co-PI identified on the project has received NSF funding (including
+ any current funding) in the past five years, in formation on the award(s)
+ is required, irrespective of whether the support was directly related to
+ the proposal or not.
+ In cases where the PI or co-PI has received more than one award (excluding
+ amendments), they need only report on the one award most closely related
+ to the proposal.
+ Funding includes not just salary support, but any funding awarded by NSF.
+ The following information must be provided:
+\begin_inset Newline newline
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\noindent
+
+\emph on
+\bar under
+Name of PI
+\emph default
+\bar default
+: NSF-Program (Award Number) 
+\begin_inset Quotes eld
+\end_inset
+
+Title of the Project
+\begin_inset Quotes erd
+\end_inset
+
+ ($AMOUNT, PERIOD OF SUPPORT).
+ 
+\series bold
+Publications:
+\series default
+ List of publications resulting from the NSF award.
+ A complete bibliographic citation for each publication must be provided
+ either in this section or in the References Cited section of the proposal);
+ if none, state: 
+\begin_inset Quotes eld
+\end_inset
+
+No publications were produced under this award.
+\begin_inset Quotes erd
+\end_inset
+
+ 
+\series bold
+Research Products:
+\series default
+ evidence of research products and their availability, including, but not
+ limited to: data, publications, samples, physical collections, software,
+ and models, as described in any Data Management Plan.
+ 
+\begin_inset CommandInset citation
+LatexCommand cite
+key "Leavitt:2017kl"
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Newpage pagebreak
+\end_inset
+
+
+\end_layout
+
+\begin_layout ProposalSection
+E
+\end_layout
+
+\begin_layout Section
+References Cited
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+bibliography{references} 
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Note Note
+status open
+
+\begin_layout Plain Layout
+\begin_inset CommandInset bibtex
+LatexCommand bibtex
+bibfiles "references"
+options "style/ieee"
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\end_body
+\end_document

@@ -1,0 +1,26 @@
+#% Do not delete the line below; configure depends on this
+#  \DeclareLaTeXClass[style/nsf]{Article (NSF Proposal)}
+#  \DeclareCategory{Articles}
+# Input general definitions
+Input stdclass.inc
+
+Style ProposalTitle
+	LatexType Command
+	LatexName title
+  Align Center
+  Font
+	  Size Huge
+	  Series Bold
+	EndFont
+End
+
+
+Style ProposalSection
+	LatexType Command
+	LatexName newsection
+  Font
+	  Size Huge
+	  Series Bold
+	  Color Green
+	EndFont
+End
