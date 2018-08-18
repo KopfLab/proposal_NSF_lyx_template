@@ -3,6 +3,7 @@
 \begin_document
 \begin_header
 \save_transient_properties true
+\origin unavailable
 \textclass style/nsf
 \use_default_options false
 \maintain_unincluded_children false
@@ -22,7 +23,8 @@
 \font_tt_scale 100 100
 \graphics default
 \default_output_format default
-\output_sync 0
+\output_sync 1
+\output_sync_macro "\synctex=-1"
 \bibtex_command default
 \index_command default
 \paperfontsize default
@@ -70,6 +72,10 @@
 
 \begin_body
 
+\begin_layout ProposalSection
+G
+\end_layout
+
 \begin_layout Section
 Budget Justification
 \end_layout
@@ -100,7 +106,6 @@ A1.
 
 \series default
  Includes PI at 10% CY.
-
 \end_layout
 
 \begin_layout Subsection
@@ -117,7 +122,6 @@ B3.
 \series default
  Includes stipend for one graduate student for each calendar year of the
  project.
-
 \end_layout
 
 \begin_layout Subsection
@@ -128,7 +132,6 @@ C.
 \begin_layout Standard
 Fringe benefits are calculated at a rate of X% for faculty, Y% for graduate
  students.
-
 \end_layout
 
 \begin_layout Subsection
@@ -141,7 +144,6 @@ E.
  2) temporary dependent care costs above and beyond regular dependent care
  that directly result from travel to conferences are allowable costs provided
  that the conditions established in 2 CFR Â§ 200.474 are met.
-
 \end_layout
 
 \begin_layout Subsection
@@ -153,13 +155,11 @@ G.
 1) Includes coverage on costs of computing devices 2) The charging of computing
  devices as a direct cost is allowable for devices that are essential and
  allocable, but not solely dedicated, to the performance of the NSF award
-
 \series bold
 G5.
 
 \series default
  Includes tuition for graduate students participating in the program.
-
 \end_layout
 
 \begin_layout Subsection
@@ -173,7 +173,6 @@ Overhead at a rate of X% is charged on all direct salaries and wages, applicable
  fringe benefits, materials and supplies, services, travel and subawards
  up to the first $X of each subaward.
  Excluded are equipment and the portion of each subaward in excess of $X.
-
 \end_layout
 
 \end_body

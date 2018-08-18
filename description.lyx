@@ -23,7 +23,8 @@
 \font_tt_scale 100 100
 \graphics default
 \default_output_format default
-\output_sync 0
+\output_sync 1
+\output_sync_macro "\synctex=-1"
 \bibtex_command default
 \index_command default
 \paperfontsize default
@@ -41,10 +42,10 @@
 \use_package stackrel 0
 \use_package stmaryrd 0
 \use_package undertilde 0
-\cite_engine basic
-\cite_engine_type default
-\biblio_style plain
-\use_bibtopic false
+\cite_engine natbib
+\cite_engine_type authoryear
+\biblio_style 
+\use_bibtopic true
 \use_indices false
 \paperorientation portrait
 \suppress_date false
@@ -107,6 +108,26 @@ The Project Description should outline the general plan of work, including
  methods and approaches, but in either case must be well justified.
  These issues apply to both the technical aspects of the proposal and the
  way in which the project may make broader contributions.
+\end_layout
+
+\begin_layout Standard
+Citation test with one of the greatest papers of all time is 
+\begin_inset CommandInset citation
+LatexCommand citet
+key "Hayes:2001vca"
+
+\end_inset
+
+.
+ And in slightly different manner 
+\begin_inset CommandInset citation
+LatexCommand citep
+before "see"
+key "Hayes:2001vca"
+
+\end_inset
+
+.
 \end_layout
 
 \begin_layout Subsection
@@ -199,13 +220,6 @@ Research Products:
  limited to: data, publications, samples, physical collections, software,
  and models, as described in any Data Management Plan.
  
-\begin_inset CommandInset citation
-LatexCommand cite
-key "Leavitt:2017kl"
-
-\end_inset
-
-
 \end_layout
 
 \begin_layout Standard
@@ -224,14 +238,55 @@ References Cited
 \end_layout
 
 \begin_layout Standard
-\begin_inset ERT
+
+\series bold
+\begin_inset Note Note
 status open
 
 \begin_layout Plain Layout
+Citation style for alphabetical with author year in text:
+\end_layout
 
+\begin_layout Plain Layout
+- Menu -> Document -> Settings -> Bibliography -> Citation Style: natbib
+ -> Natbib style: author-year
+\end_layout
 
-\backslash
-bibliography{references} 
+\begin_layout Plain Layout
+- BibTex Generated Bibliography (below) -> Style: style/elsarticle-harv
+ (other styles are also possible but this one works well)
+\end_layout
+
+\begin_layout Plain Layout
+Citation style for alphabetical with numbers in text:
+\end_layout
+
+\begin_layout Plain Layout
+- Menu -> Document -> Settings -> Bibliography -> Citation Style: natbib
+ -> Natbib style: numerical
+\end_layout
+
+\begin_layout Plain Layout
+- BibTex Generated Bibliography (below) -> Style: style/elsarticle-harv
+ (other styles are also possible but this one works well)
+\end_layout
+
+\begin_layout Plain Layout
+Citation style for order of occurence with numbers in text:
+\end_layout
+
+\begin_layout Plain Layout
+- NOTE: could not get this to work reliably, investigate more if needed
+\end_layout
+
+\begin_layout Plain Layout
+- In theory, should be: Menu -> Document -> Settings -> Bibliography ->
+ Citation Style: natbib -> Natbib style: numerical
+\end_layout
+
+\begin_layout Plain Layout
+- and BibTex Generated Bibliography (below) -> Style: unsrt (or some other
+ closely related one)
 \end_layout
 
 \end_inset
@@ -240,19 +295,11 @@ bibliography{references}
 \end_layout
 
 \begin_layout Standard
-\begin_inset Note Note
-status open
-
-\begin_layout Plain Layout
 \begin_inset CommandInset bibtex
 LatexCommand bibtex
+btprint "btPrintCited"
 bibfiles "references"
-options "style/ieee"
-
-\end_inset
-
-
-\end_layout
+options "style/elsarticle-harv"
 
 \end_inset
 

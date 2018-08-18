@@ -1,8 +1,9 @@
-#LyX file created by tex2lyx 2.2
+#LyX 2.2 created this file. For more info see http://www.lyx.org/
 \lyxformat 508
 \begin_document
 \begin_header
 \save_transient_properties true
+\origin unavailable
 \textclass style/nsf
 \use_default_options false
 \maintain_unincluded_children false
@@ -22,7 +23,8 @@
 \font_tt_scale 100 100
 \graphics default
 \default_output_format default
-\output_sync 0
+\output_sync 1
+\output_sync_macro "\synctex=-1"
 \bibtex_command default
 \index_command default
 \paperfontsize default
@@ -70,12 +72,29 @@
 
 \begin_body
 
+\begin_layout ProposalSection
+I
+\end_layout
+
 \begin_layout Section
 Facilities, Equipments, & other Resources
 \end_layout
 
 \begin_layout Standard
-This section of the proposal is used to assess the adequacy of the resources available to perform the effort proposed to satisfy both the Intellectual Merit and Broader Impacts review criteria. Proposers should describe only those resources that are directly applicable. Proposers should include an aggregated description of the internal and external resources (both physical and personnel) that the organization and its collaborators will provide to the project, should it be funded. Such information must be provided in this section, in lieu of other parts of the proposal (e.g., budget justification, project description). The description should be narrative in nature and must not include any quantifiable financial information. Reviewers will evaluate the information during the merit review process and the cognizant NSF Program Officer will review it for programmatic and technical sufficiency.
+This section of the proposal is used to assess the adequacy of the resources
+ available to perform the effort proposed to satisfy both the Intellectual
+ Merit and Broader Impacts review criteria.
+ Proposers should describe only those resources that are directly applicable.
+ Proposers should include an aggregated description of the internal and
+ external resources (both physical and personnel) that the organization
+ and its collaborators will provide to the project, should it be funded.
+ Such information must be provided in this section, in lieu of other parts
+ of the proposal (e.g., budget justification, project description).
+ The description should be narrative in nature and must not include any
+ quantifiable financial information.
+ Reviewers will evaluate the information during the merit review process
+ and the cognizant NSF Program Officer will review it for programmatic and
+ technical sufficiency.
 \end_layout
 
 \end_body
