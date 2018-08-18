@@ -4,6 +4,7 @@ Icon*
 
 ## Lyx auxiliary files
 *.lyx~
+*.lyx#
 
 ## Rendered files
 *.pdf
