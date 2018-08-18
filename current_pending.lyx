@@ -1,8 +1,9 @@
-#LyX file created by tex2lyx 2.2
+#LyX 2.2 created this file. For more info see http://www.lyx.org/
 \lyxformat 508
 \begin_document
 \begin_header
 \save_transient_properties true
+\origin unavailable
 \textclass style/nsf
 \use_default_options false
 \maintain_unincluded_children false
@@ -22,7 +23,8 @@
 \font_tt_scale 100 100
 \graphics default
 \default_output_format default
-\output_sync 0
+\output_sync 1
+\output_sync_macro "\synctex=-1"
 \bibtex_command default
 \index_command default
 \paperfontsize default
@@ -70,33 +72,38 @@
 
 \begin_body
 
+\begin_layout ProposalSection
+H
+\end_layout
+
 \begin_layout Section
 Current & Pending Support
 \end_layout
 
 \begin_layout Standard
-
 \begin_inset Tabular
 <lyxtabular version="3" rows="7" columns="2">
-<features rotate="0" tabularvalignment="middle" tabularwidth="0pt">
+<features tabularvalignment="middle">
 <column alignment="left" valignment="top">
 <column alignment="left" valignment="top">
 <row>
 <cell alignment="left" valignment="top" usebox="none">
 \begin_inset Text
 
-\begin_layout Standard
+\begin_layout Plain Layout
 
 \series bold
 Investigator:
-\series default
-
 \end_layout
 
 \end_inset
 </cell>
 <cell alignment="none" valignment="top" usebox="none">
 \begin_inset Text
+
+\begin_layout Plain Layout
+
+\end_layout
 
 \end_inset
 </cell>
@@ -105,12 +112,10 @@ Investigator:
 <cell alignment="left" valignment="top" usebox="none">
 \begin_inset Text
 
-\begin_layout Standard
+\begin_layout Plain Layout
 
 \series bold
 Project Title:
-\series default
-
 \end_layout
 
 \end_inset
@@ -118,7 +123,7 @@ Project Title:
 <cell alignment="left" valignment="top" usebox="none">
 \begin_inset Text
 
-\begin_layout Standard
+\begin_layout Plain Layout
 Put your Proposal title here
 \end_layout
 
@@ -129,18 +134,20 @@ Put your Proposal title here
 <cell alignment="left" valignment="top" usebox="none">
 \begin_inset Text
 
-\begin_layout Standard
+\begin_layout Plain Layout
 
 \series bold
 Project Location:
-\series default
-
 \end_layout
 
 \end_inset
 </cell>
 <cell alignment="none" valignment="top" usebox="none">
 \begin_inset Text
+
+\begin_layout Plain Layout
+
+\end_layout
 
 \end_inset
 </cell>
@@ -149,12 +156,10 @@ Project Location:
 <cell alignment="left" valignment="top" usebox="none">
 \begin_inset Text
 
-\begin_layout Standard
+\begin_layout Plain Layout
 
 \series bold
 Source of Support:
-\series default
-
 \end_layout
 
 \end_inset
@@ -162,7 +167,7 @@ Source of Support:
 <cell alignment="left" valignment="top" usebox="none">
 \begin_inset Text
 
-\begin_layout Standard
+\begin_layout Plain Layout
 NSF
 \end_layout
 
@@ -173,18 +178,20 @@ NSF
 <cell alignment="left" valignment="top" usebox="none">
 \begin_inset Text
 
-\begin_layout Standard
+\begin_layout Plain Layout
 
 \series bold
 Total Award Amount:
-\series default
-
 \end_layout
 
 \end_inset
 </cell>
 <cell alignment="none" valignment="top" usebox="none">
 \begin_inset Text
+
+\begin_layout Plain Layout
+
+\end_layout
 
 \end_inset
 </cell>
@@ -193,18 +200,20 @@ Total Award Amount:
 <cell alignment="left" valignment="top" usebox="none">
 \begin_inset Text
 
-\begin_layout Standard
+\begin_layout Plain Layout
 
 \series bold
 Total Award Period:
-\series default
-
 \end_layout
 
 \end_inset
 </cell>
 <cell alignment="none" valignment="top" usebox="none">
 \begin_inset Text
+
+\begin_layout Plain Layout
+
+\end_layout
 
 \end_inset
 </cell>
@@ -213,12 +222,10 @@ Total Award Period:
 <cell alignment="left" valignment="top" usebox="none">
 \begin_inset Text
 
-\begin_layout Standard
+\begin_layout Plain Layout
 
 \series bold
 Status:
-\series default
-
 \end_layout
 
 \end_inset
@@ -226,7 +233,7 @@ Status:
 <cell alignment="left" valignment="top" usebox="none">
 \begin_inset Text
 
-\begin_layout Standard
+\begin_layout Plain Layout
 Pending (this project)
 \end_layout
 
