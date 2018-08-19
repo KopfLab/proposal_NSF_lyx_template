@@ -24,3 +24,19 @@ Style ProposalSection
 	  Color Green
 	EndFont
 End
+
+Style ProposalSuggestedReviewer
+	LatexType Command
+	LatexName paragraph
+  Font
+	  Color Blue
+	EndFont
+End
+
+Style ProposalExcludedReviewer
+	LatexType Command
+	LatexName paragraph
+  Font
+	  Color Red
+	EndFont
+End
