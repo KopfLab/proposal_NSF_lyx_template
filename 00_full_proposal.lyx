@@ -184,7 +184,7 @@ B: Proposal Summary
 \begin_layout Standard
 \begin_inset CommandInset include
 LatexCommand include
-filename "summary.lyx"
+filename "B_summary.lyx"
 
 \end_inset
 
@@ -230,7 +230,7 @@ D: Project Description & E: References Cited
 
 \begin_inset CommandInset include
 LatexCommand include
-filename "description.lyx"
+filename "D_description.lyx"
 
 \end_inset
 
@@ -257,7 +257,7 @@ F: Biographical Sketch(es)
 
 \begin_inset CommandInset include
 LatexCommand include
-filename "bio.lyx"
+filename "F_bio.lyx"
 
 \end_inset
 
@@ -284,7 +284,7 @@ G: Budget and Budget Justification
 
 \begin_inset CommandInset include
 LatexCommand include
-filename "budget.lyx"
+filename "G_budget.lyx"
 
 \end_inset
 
@@ -311,7 +311,7 @@ H: Current and Pending Support
 
 \begin_inset CommandInset include
 LatexCommand include
-filename "current_pending.lyx"
+filename "H_current_pending.lyx"
 
 \end_inset
 
@@ -339,7 +339,7 @@ I.
 
 \begin_inset CommandInset include
 LatexCommand include
-filename "resources.lyx"
+filename "I_resources.lyx"
 
 \end_inset
 
@@ -375,7 +375,7 @@ J.
 
 \begin_inset CommandInset include
 LatexCommand include
-filename "data_management_plan.lyx"
+filename "J1_data_management_plan.lyx"
 
 \end_inset
 
@@ -385,7 +385,7 @@ filename "data_management_plan.lyx"
 \begin_layout Standard
 \begin_inset CommandInset include
 LatexCommand include
-filename "postdoc.lyx"
+filename "J2_postdoc.lyx"
 
 \end_inset
 

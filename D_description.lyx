@@ -1309,7 +1309,7 @@ Citation style for order of occurence with numbers in text:
 \begin_inset CommandInset bibtex
 LatexCommand bibtex
 btprint "btPrintCited"
-bibfiles "references"
+bibfiles "E_references"
 options "style/elsarticle-harv"
 
 \end_inset
