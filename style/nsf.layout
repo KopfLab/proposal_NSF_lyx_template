@@ -19,7 +19,7 @@ Style ProposalRunningTitle
 	LatexName fancyfoot[L]
   Align Center
   Font
-	  Size Large
+	  Size Larger
 	EndFont
 End
 
