@@ -459,7 +459,17 @@ A biographical sketch (limited to two pages) is required for each individual
 
 \begin_inset CommandInset include
 LatexCommand include
-filename "F_bio.lyx"
+filename "F1_bio.lyx"
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset CommandInset include
+LatexCommand include
+filename "F2_bio.lyx"
 
 \end_inset
 

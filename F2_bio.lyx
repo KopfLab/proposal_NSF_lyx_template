@@ -1,0 +1,800 @@
+#LyX 2.2 created this file. For more info see http://www.lyx.org/
+\lyxformat 508
+\begin_document
+\begin_header
+\save_transient_properties true
+\origin unavailable
+\textclass style/nsf
+\use_default_options false
+\maintain_unincluded_children false
+\language english
+\language_package none
+\inputencoding auto
+\fontencoding default
+\font_roman "default" "default"
+\font_sans "default" "default"
+\font_typewriter "default" "default"
+\font_math "auto" "auto"
+\font_default_family default
+\use_non_tex_fonts false
+\font_sc false
+\font_osf false
+\font_sf_scale 100 100
+\font_tt_scale 100 100
+\graphics default
+\default_output_format default
+\output_sync 1
+\output_sync_macro "\synctex=-1"
+\bibtex_command default
+\index_command default
+\paperfontsize default
+\spacing single
+\use_hyperref false
+\papersize default
+\use_geometry false
+\use_package amsmath 1
+\use_package amssymb 0
+\use_package cancel 0
+\use_package esint 1
+\use_package mathdots 0
+\use_package mathtools 0
+\use_package mhchem 0
+\use_package stackrel 0
+\use_package stmaryrd 0
+\use_package undertilde 0
+\cite_engine basic
+\cite_engine_type default
+\biblio_style plain
+\use_bibtopic false
+\use_indices false
+\paperorientation portrait
+\suppress_date false
+\justification true
+\use_refstyle 0
+\index Index
+\shortcut idx
+\color #008000
+\end_index
+\secnumdepth 3
+\tocdepth 3
+\paragraph_separation indent
+\paragraph_indentation default
+\quotes_language english
+\papercolumns 1
+\papersides 1
+\paperpagestyle default
+\tracking_changes false
+\output_changes false
+\html_math_output 0
+\html_css_as_file 0
+\html_be_strict false
+\end_header
+
+\begin_body
+
+\begin_layout Standard
+\begin_inset Note Note
+status open
+
+\begin_layout Plain Layout
+
+\series bold
+Biosketch:
+\end_layout
+
+\begin_layout Plain Layout
+The following information must be provided in the order and format specified
+ below.
+ 
+\bar under
+Inclusion of additional information beyond that specified below may result
+ in the proposal being returned without review
+\bar default
+.
+ Do not submit any personal information in the biographical sketch.
+ This includes items such as: home address; home telephone, fax, or cell
+ phone numbers; home e-mail address; driver’s license number; marital status;
+ personal hobbies; and the like.
+ Such personal information is not appropriate for the biographical sketch
+ and is not relevant to the merits of the proposal.
+ NSF is not responsible or in any way liable for the release of such material.
+ (See also Chapter III.H).
+\end_layout
+
+\begin_layout Plain Layout
+
+\emph on
+Professional Preparation
+\end_layout
+
+\begin_layout Plain Layout
+A list of the individual’s undergraduate and graduate education and postdoctoral
+ training (including location)
+\end_layout
+
+\begin_layout Plain Layout
+as indicated below:
+\end_layout
+
+\begin_layout Plain Layout
+Undergraduate Institution(s) Location Major Degree & Year
+\end_layout
+
+\begin_layout Plain Layout
+Graduate Institution(s) Location Major Degree & Year
+\end_layout
+
+\begin_layout Plain Layout
+Postdoctoral Institution(s) Location Area Inclusive Dates (Years)
+\end_layout
+
+\begin_layout Plain Layout
+
+\emph on
+Appointments
+\end_layout
+
+\begin_layout Plain Layout
+A list, in reverse chronological order, of all the individual’s academic/profess
+ional appointments beginning
+\end_layout
+
+\begin_layout Plain Layout
+with the current appointment.
+\end_layout
+
+\begin_layout Plain Layout
+
+\emph on
+Products
+\end_layout
+
+\begin_layout Plain Layout
+A list of: (i) up to five products most closely related to the proposed
+ project; and (ii) up to five other significant
+\end_layout
+
+\begin_layout Plain Layout
+products, whether or not related to the proposed project.
+ Acceptable products must be citable and
+\end_layout
+
+\begin_layout Plain Layout
+accessible including but not limited to publications, data sets, software,
+ patents, and copyrights.
+\end_layout
+
+\begin_layout Plain Layout
+Unacceptable products are unpublished documents not yet submitted for publicatio
+n, invited lectures, and
+\end_layout
+
+\begin_layout Plain Layout
+additional lists of products.
+ Only the list of ten will be used in the review of the proposal.
+\end_layout
+
+\begin_layout Plain Layout
+Each product must include full citation information including (where applicable
+ and practicable) names of
+\end_layout
+
+\begin_layout Plain Layout
+all authors, date of publication or release, title, title of enclosing work
+ such as journal or book, volume,
+\end_layout
+
+\begin_layout Plain Layout
+issue, pages, website and URL, or other Persistent Identifier.
+\end_layout
+
+\begin_layout Plain Layout
+If only publications are included, the heading “Publications” may be used
+ for this section of the Biographical
+\end_layout
+
+\begin_layout Plain Layout
+Sketch.
+\end_layout
+
+\begin_layout Plain Layout
+
+\emph on
+Synergistic Activities
+\end_layout
+
+\begin_layout Plain Layout
+A list of up to five examples that demonstrate the broader impact of the
+ individual’s professional and
+\end_layout
+
+\begin_layout Plain Layout
+scholarly activities that focuses on the integration and transfer of knowledge
+ as well as its creation.
+ Examples could include, among others: innovations in teaching and training
+ (e.g., development of curricular
+\end_layout
+
+\begin_layout Plain Layout
+materials and pedagogical methods); contributions to the science of learning;
+ development and/or
+\end_layout
+
+\begin_layout Plain Layout
+refinement of research tools; computation methodologies and algorithms for
+ problem-solving; development
+\end_layout
+
+\begin_layout Plain Layout
+of databases to support research and education; broadening the participation
+ of groups underrepresented
+\end_layout
+
+\begin_layout Plain Layout
+in STEM; and service to the scientific and engineering community outside
+ of the individual’s immediate
+\end_layout
+
+\begin_layout Plain Layout
+organization.
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout ProposalSection
+F-Name
+\end_layout
+
+\begin_layout Standard
+\begin_inset Note Note
+status open
+
+\begin_layout Plain Layout
+add investigator last name
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Section
+Biographical Sketch: Name
+\end_layout
+
+\begin_layout Standard
+\begin_inset Note Note
+status open
+
+\begin_layout Plain Layout
+add investigator full name
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\align center
+Department, University, email: 
+\begin_inset Note Note
+status open
+
+\begin_layout Plain Layout
+enter affiliation and email
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Subsection
+A.
+ Professional Preparation
+\end_layout
+
+\begin_layout Standard
+\begin_inset Tabular
+<lyxtabular version="3" rows="3" columns="4">
+<features tabularvalignment="middle">
+<column alignment="left" valignment="top" width="0pt">
+<column alignment="left" valignment="top">
+<column alignment="left" valignment="top">
+<column alignment="left" valignment="top">
+<row>
+<cell alignment="left" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+Undergrad institution(s)
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="left" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+Location
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="left" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+Major
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="left" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+Degree & Year
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="left" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+Graduate institutions(s)
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="left" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+Location
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="left" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+Major
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="left" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+Degree & Year
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="left" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+Postdoctoral Institution(s)
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="left" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+Location
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="left" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+Area
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="left" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+Inclusive Dates (Years)
+\end_layout
+
+\end_inset
+</cell>
+</row>
+</lyxtabular>
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Subsection
+B.
+ Appointments
+\end_layout
+
+\begin_layout Standard
+\begin_inset Tabular
+<lyxtabular version="3" rows="5" columns="2">
+<features tabularvalignment="middle">
+<column alignment="left" valignment="top" width="0pt">
+<column alignment="left" valignment="top">
+<row>
+<cell alignment="left" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+2016-present
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="left" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+Position, Location
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="left" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+2014-2016
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="left" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+Position, Location
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="left" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="left" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="left" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="left" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="left" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="left" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+</cell>
+</row>
+</lyxtabular>
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Subsection
+C.
+ Products
+\end_layout
+
+\begin_layout Paragraph
+
+\emph on
+Most relevant to the proposed project
+\end_layout
+
+\begin_layout Standard
+\begin_inset Note Note
+status open
+
+\begin_layout Plain Layout
+up to 5! optionally bold PI
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Enumerate
+
+\series bold
+Last F,
+\series default
+ Last F, Last F.
+ This is the publication title which might be so along as to span into the
+ next line.
+ 
+\emph on
+Journal
+\emph default
+, year, volume, pages, doi: xx
+\end_layout
+
+\begin_layout Enumerate
+
+\series bold
+Last F,
+\series default
+ Last F, Last F.
+ This is the publication title which might be so along as to span into the
+ next line.
+ 
+\emph on
+Journal
+\emph default
+, year, volume, pages, doi: xx
+\end_layout
+
+\begin_layout Enumerate
+
+\series bold
+Last F,
+\series default
+ Last F, Last F.
+ This is the publication title which might be so along as to span into the
+ next line.
+ 
+\emph on
+Journal
+\emph default
+, year, volume, pages, doi: xx
+\end_layout
+
+\begin_layout Enumerate
+
+\series bold
+Last F,
+\series default
+ Last F, Last F.
+ This is the publication title which might be so along as to span into the
+ next line.
+ 
+\emph on
+Journal
+\emph default
+, year, volume, pages, doi: xx
+\end_layout
+
+\begin_layout Enumerate
+
+\series bold
+Last F,
+\series default
+ Last F, Last F.
+ This is the publication title which might be so along as to span into the
+ next line.
+ 
+\emph on
+Journal
+\emph default
+, year, volume, pages, doi: xx
+\end_layout
+
+\begin_layout Paragraph
+
+\emph on
+Other significant products
+\end_layout
+
+\begin_layout Standard
+\begin_inset Note Note
+status open
+
+\begin_layout Plain Layout
+up to 5! optionally bold PI
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Enumerate
+Last F, Last F, 
+\series bold
+Last F
+\series default
+.
+ This is the publication title which might be so along as to span into the
+ next line.
+ 
+\emph on
+Journal
+\emph default
+, year, volume, pages, doi: xx
+\end_layout
+
+\begin_layout Enumerate
+Last F, Last F, 
+\series bold
+Last F
+\series default
+.
+ This is the publication title which might be so along as to span into the
+ next line.
+ 
+\emph on
+Journal
+\emph default
+, year, volume, pages, doi: xx
+\end_layout
+
+\begin_layout Enumerate
+Last F, Last F, 
+\series bold
+Last F
+\series default
+.
+ This is the publication title which might be so along as to span into the
+ next line.
+ 
+\emph on
+Journal
+\emph default
+, year, volume, pages, doi: xx
+\end_layout
+
+\begin_layout Enumerate
+Last F, Last F, 
+\series bold
+Last F
+\series default
+.
+ This is the publication title which might be so along as to span into the
+ next line.
+ 
+\emph on
+Journal
+\emph default
+, year, volume, pages, doi: xx
+\end_layout
+
+\begin_layout Enumerate
+Last F, Last F, 
+\series bold
+Last F
+\series default
+.
+ This is the publication title which might be so along as to span into the
+ next line.
+ 
+\emph on
+Journal
+\emph default
+, year, volume, pages, doi: xx
+\end_layout
+
+\begin_layout Subsection
+D.
+ Synergistic Activities
+\end_layout
+
+\begin_layout Standard
+\begin_inset Note Note
+status open
+
+\begin_layout Plain Layout
+up to 5! examples below
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Enumerate
+
+\series bold
+Conference service: 
+\series default
+details
+\end_layout
+
+\begin_layout Enumerate
+
+\series bold
+University service: 
+\series default
+details
+\end_layout
+
+\begin_layout Enumerate
+
+\series bold
+Community service: 
+\series default
+details
+\end_layout
+
+\begin_layout Enumerate
+
+\series bold
+Teaching: 
+\series default
+details
+\end_layout
+
+\begin_layout Enumerate
+
+\series bold
+Mentoring 
+\series default
+details
+\end_layout
+
+\end_body
+\end_document
