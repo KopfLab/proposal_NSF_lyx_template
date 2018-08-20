@@ -349,8 +349,6 @@ Click on the float: Figure to expand & edit the figure.
 \end_layout
 
 \begin_layout Standard
-
-\series bold
 \begin_inset Float figure
 placement H
 wide false
@@ -359,8 +357,6 @@ status collapsed
 
 \begin_layout Plain Layout
 \align center
-
-\series bold
 \begin_inset Graphics
 	filename figures/example.pdf
 	lyxscale 50
@@ -372,8 +368,6 @@ status collapsed
 \end_layout
 
 \begin_layout Plain Layout
-
-\series bold
 \begin_inset Caption Standard
 
 \begin_layout Plain Layout
