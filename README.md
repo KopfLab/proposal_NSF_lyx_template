@@ -6,4 +6,4 @@ The usual disclaimer: absolutely no guarantee for accuracy or NSF compliance - y
 
 # Notes
 
-Open, edit and render individual lyx files for each section for FastLane. Render the `full_proposal.lyx` file for a combined overview of the full proposal (however, this is NOT FastLane compatible).
+Open, edit and render individual lyx files for each section. Instructions copied from the 2016 PPAG available in individual files but may be out of date. Render the `0_proposal.lyx` file for a combined overview of the full proposal. However, fastlane requires individual sections. Code for splitting the PDF automatically is in the works.
