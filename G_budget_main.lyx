@@ -1,0 +1,619 @@
+#LyX 2.2 created this file. For more info see http://www.lyx.org/
+\lyxformat 508
+\begin_document
+\begin_header
+\save_transient_properties true
+\origin unavailable
+\textclass style/nsf
+\use_default_options false
+\maintain_unincluded_children false
+\language english
+\language_package none
+\inputencoding auto
+\fontencoding default
+\font_roman "default" "default"
+\font_sans "default" "default"
+\font_typewriter "default" "default"
+\font_math "auto" "auto"
+\font_default_family default
+\use_non_tex_fonts false
+\font_sc false
+\font_osf false
+\font_sf_scale 100 100
+\font_tt_scale 100 100
+\graphics default
+\default_output_format default
+\output_sync 1
+\output_sync_macro "\synctex=-1"
+\bibtex_command default
+\index_command default
+\paperfontsize default
+\spacing single
+\use_hyperref false
+\papersize default
+\use_geometry false
+\use_package amsmath 1
+\use_package amssymb 0
+\use_package cancel 0
+\use_package esint 1
+\use_package mathdots 0
+\use_package mathtools 0
+\use_package mhchem 0
+\use_package stackrel 0
+\use_package stmaryrd 0
+\use_package undertilde 0
+\cite_engine basic
+\cite_engine_type default
+\biblio_style plain
+\use_bibtopic false
+\use_indices false
+\paperorientation portrait
+\suppress_date false
+\justification true
+\use_refstyle 0
+\index Index
+\shortcut idx
+\color #008000
+\end_index
+\secnumdepth 3
+\tocdepth 3
+\paragraph_separation indent
+\paragraph_indentation default
+\quotes_language english
+\papercolumns 1
+\papersides 1
+\paperpagestyle default
+\tracking_changes false
+\output_changes false
+\html_math_output 0
+\html_css_as_file 0
+\html_be_strict false
+\end_header
+
+\begin_body
+
+\begin_layout Standard
+\begin_inset Note Note
+status open
+
+\begin_layout Plain Layout
+
+\series bold
+Budget & Budget Justificaton
+\end_layout
+
+\begin_layout Plain Layout
+Each proposal must contain a budget for each year of support requested.
+ 
+\series bold
+The budget justification must be no more than thre pages per proposal
+\series default
+.
+\end_layout
+
+\begin_layout Plain Layout
+The amounts for each budget line item requested must be documented and justified
+ in the budget justification as specified below.
+\end_layout
+
+\begin_layout Plain Layout
+For proposals that contain a subaward(s), 
+\series bold
+each subaward must include a separate budget justification of no more than
+ three pages
+\series default
+.
+ See Chapter II.C.2.g.(vi)(e) for further instructions on proposals that contain
+ subawards.
+\end_layout
+
+\begin_layout Plain Layout
+The proposal may request funds under any of the categories listed so long
+ as the item and amount are considered necessary, reasonable, allocable,
+ and allowable under 2 CFR § 200, Subpart E, NSF policy, and/or the program
+ solicitation.
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout ProposalSection
+G
+\end_layout
+
+\begin_layout Section
+Budget Justification
+\end_layout
+
+\begin_layout Subsection
+Salaries and Wages
+\end_layout
+
+\begin_layout Standard
+\begin_inset Note Note
+status open
+
+\begin_layout Plain Layout
+
+\series bold
+Salaries and Wages (Lines A and B on the Proposal Budget)
+\end_layout
+
+\begin_layout Plain Layout
+#### Senior Personnel Salaries & Wages Policy As a general policy, NSF limits
+ the salary compensation requested in the proposal budget for senior personnel
+ to no more than two months of their regular salary in any one year.
+ This limit includes salary compensation received from all NSF-funded grants.
+\end_layout
+
+\begin_layout Plain Layout
+#### Administrative and Clerical Salaries & Wages Policy In accordance with
+ 2 CFR § 200.413, the salaries of administrative and clerical staff should
+ normally be treated as indirect costs (F&A).
+ Direct charging of these costs may be appropriate only if all the conditions
+ identified below are met: (i) Administrative or clerical services are integral
+ to a project or activity; (ii) Individuals involved can be specifically
+ identified with the project or activity; (iii) Such costs are explicitly
+ included in the approved budget or have the prior written approval of the
+ cognizant NSF Grants Officer; and (iv) The costs are not also recovered
+ as indirect costs.
+ Conditions (i) (ii) and (iv) above are particularly relevant for consideration
+ at the budget preparation stage.
+\end_layout
+
+\begin_layout Plain Layout
+#### Procedures The names of the PI(s), faculty, and other senior personnel
+ and the estimated number of full-time-equivalent person-months for which
+ NSF funding is requested, and the total amount of salaries requested per
+ year, must be listed.
+ For consistency with the NSF cost sharing policy, if person months will
+ be requested for senior personnel, a corresponding salary amount must be
+ entered on the budget.
+ If no person months and no salary are being requested for senior personnel,
+ they should be removed from Section A of the budget.
+ Their name(s) will remain on the Cover Sheet and the individual(s) role
+ on the project should be described in the Facilities, Equipment and Other
+ Resources section of the proposal.
+\end_layout
+
+\begin_layout Plain Layout
+For postdoctoral associates and other professionals, the total number of
+ persons for each position must be listed, with the number of full-time-equivale
+nt person-months and total amount of salaries requested per year.
+ For graduate and undergraduate students, secretarial, clerical, technical,
+ etc., whose time will be charged directly to the project, only the total
+ number of persons and total amount of salaries requested per year in each
+ category is required.
+ Compensation classified as salary payments must be requested in the salaries
+ and wages category.
+ Salaries requested must be consistent with the organization’s regular practices.
+ The budget justification should detail the rates of pay by individual for
+ senior personnel, postdoctoral associates, and other professionals.
+\end_layout
+
+\begin_layout Plain Layout
+#### Confidential Budgetary Information p.24
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Subsubsection
+A.
+ Senior Personnel
+\end_layout
+
+\begin_layout Standard
+\noindent
+
+\series bold
+A1.
+
+\series default
+ Includes PI at 10% CY.
+\end_layout
+
+\begin_layout Subsubsection
+B.
+ Other Personnel
+\end_layout
+
+\begin_layout Standard
+\noindent
+
+\series bold
+B3.
+
+\series default
+ Includes stipend for one graduate student for each calendar year of the
+ project.
+\end_layout
+
+\begin_layout Subsection
+C.
+ Fringe Benefits
+\end_layout
+
+\begin_layout Standard
+\begin_inset Note Note
+status open
+
+\begin_layout Plain Layout
+
+\series bold
+Fringe Benefits (Line C on the Proposal Budget)
+\end_layout
+
+\begin_layout Plain Layout
+If the proposer’s usual accounting practices provide that its contributions
+ to employee benefits (leave, employee insurance, social security, retirement,
+ other payroll-related taxes, etc.) be treated as direct costs, NSF grant
+ funds may be requested to fund fringe benefits as a direct cost.
+ These are typically determined by application of a calculated fringe benefit
+ rate for a particular class of employee (full time or part-time) applied
+ to the salaries and wages requested.
+ They also may be paid based on actual costs for individual employees, if
+ that institutional policy has been approved by the cognizant Federal agency.
+ See 2 CFR § 200.431 for the definition and allowability of inclusion of
+ fringe benefits on a proposal budget.
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Fringe benefits are calculated at a rate of X% for faculty, Y% for graduate
+ students.
+\end_layout
+
+\begin_layout Subsection
+D.
+ Equipment
+\end_layout
+
+\begin_layout Standard
+\begin_inset Note Note
+status open
+
+\begin_layout Plain Layout
+
+\series bold
+Equipment (Line D on the Proposal Budget) 
+\end_layout
+
+\begin_layout Plain Layout
+Equipment is defined as tangible personal property (including information
+ technology systems) having a useful life of more than one year and a per-unit
+ acquisition cost which equals or exceeds the lesser of the capitalization
+ level established by the proposer for financial statement purposes, or
+ $5,000.
+ It is important to note that the acquisition cost of equipment includes
+ modifications, attachments, and accessories necessary to make the property
+ usable for the purpose for which it will be purchased.
+ Items of needed equipment must be adequately justified, listed individually
+ by description and estimated cost.
+ Allowable items ordinarily will be limited to research equipment and apparatus
+ not already available for the conduct of the work.
+ General purpose equipment such as office equipment and furnishings, and
+ information technology equipment and systems are typically not eligible
+ for direct cost support.
+ Special purpose or scientific use computers or associated hardware and
+ software, however, may be requested as items of equipment when necessary
+ to accomplish the project objectives and not otherwise reasonably available.
+ Any request to support such items must be clearly disclosed in the proposal
+ budget, justified in the budget justification, and be included in the NSF
+ award budget.
+ See 2 CFR § 200.313 for additional information.
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Subsection
+E.
+ Travel
+\end_layout
+
+\begin_layout Standard
+\begin_inset Note Note
+status open
+
+\begin_layout Plain Layout
+
+\series bold
+Travel (Line E on the Proposal Budget)
+\end_layout
+
+\begin_layout Plain Layout
+When anticipated, travel and its relation to the proposed activities must
+ be specified, itemized and justified by destination and cost.
+ Funds may be requested for field work, attendance at meetings and conferences,a
+nd other travel associated with the proposed work, including subsistence.
+ In order to qualify for support, however, attendance at meetings or conferences
+ must be necessary to accomplish proposal objectives, or disseminate its
+ results.
+ Travel support for dependents of key project personnel may be requested
+ only when the travel is for a duration of six months or more either by
+ inclusion in the approved budget or with the prior written approval of
+ the cognizant NSF Grants Officer.
+ Temporary dependent care costs above and beyond regular dependent care
+ that directly result from travel to conferences are allowable costs provided
+ that the conditions established in 2 CFR § 200.474 are met.
+\end_layout
+
+\begin_layout Plain Layout
+Allowance for air travel normally will not exceed the cost of round-trip,
+ economy airfares.
+ Persons traveling under NSF grants must travel by US-Flag Air carriers,
+ if available.
+\end_layout
+
+\begin_layout Plain Layout
+- Domestic Travel: Domestic travel includes travel within and between the
+ US, its territories and possessions.19 Travel, meal and hotel expenses of
+ grantee employees who are not on travel status are unallowable.
+ Costs of employees on travel status are limited to those specifically authorize
+d by 2 CFR § 200.474.
+ - Foreign Travel: Travel outside the areas specified above is considered
+ foreign travel.
+ When anticipated, the proposer must enter the names of countries and dates
+ of visit on the proposal budget, if known.
+\end_layout
+
+\begin_layout Plain Layout
+#### Participant Support (Line F on the Proposal Budget)
+\end_layout
+
+\begin_layout Plain Layout
+This budget category refers to direct costs for items such as stipends or
+ subsistence allowances, travel allowances, and registration fees paid to
+ or on behalf of participants or trainees (but not employees) in connection
+ with NSF-sponsored conferences or training projects.
+ Any additional categories of participant support costs other than those
+ described in 2 CFR § 200.75 (such as incentives, gifts, souvenirs, t-shirts
+ and memorabilia), must be justified in the budget justification, and such
+ costs will be closely scrutinized by NSF.
+ (See also Chapter II.E.7) For some educational projects conducted at local
+ school districts, however, the participants being trained are employees.
+ In such cases, the costs must be classified as participant support if payment
+ is made through a stipend or training allowance method.
+ The school district must have an accounting mechanism in place (i.e., sub-account
+ code) to differentiate between regular salary and stipend payments.
+\end_layout
+
+\begin_layout Plain Layout
+To help defray the costs of participating in a conference or training activity,
+ funds may be proposed for payment of stipends, per diem or subsistence
+ allowances, based on the type and duration of the activity.
+ Such allowances must be reasonable, in conformance with the policy of the
+ proposing organization and limited to the days of attendance at the conference
+ plus the actual travel time required to reach the conference location.
+ Where meals or lodgings are furnished without charge or at a nominal cost
+ (e.g., as part of the registration fee), the per diem or subsistence allowance
+ should be correspondingly reduced.
+ Although local participants may participate in conference meals and coffee
+ breaks, funds may not be proposed to pay per diem or similar expenses for
+ local participants in the conference.
+\end_layout
+
+\begin_layout Plain Layout
+Funds may be requested for the travel costs of participants.
+ If so, the restrictions regarding class of accommodations and use of US-Flag
+ air carriers are applicable.20 In training activities that involve field
+ trips, costs of transportation of participants are allowable.
+ The number of participants to be supported must be entered in the parentheses
+ on the proposal budget.
+ Participant support costs must be specified, itemized and justified in
+ the budget justification section of the proposal.
+ Indirect costs (F&A) are not allowed on participant support costs.
+ Participant support costs must be accounted for separately should an award
+ be made.
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+1) all travel (both domestic and foreign) must now be justified.
+ 2) temporary dependent care costs above and beyond regular dependent care
+ that directly result from travel to conferences are allowable costs provided
+ that the conditions established in 2 CFR Â§ 200.474 are met.
+\end_layout
+
+\begin_layout Subsection
+G.
+ Other Direct Costs
+\end_layout
+
+\begin_layout Standard
+\begin_inset Note Note
+status open
+
+\begin_layout Plain Layout
+
+\series bold
+Other Direct Costs (Lines G1 through G6 on the Proposal Budget
+\series default
+) 
+\end_layout
+
+\begin_layout Plain Layout
+Any costs proposed to an NSF project must be allowable, reasonable and directly
+ allocable to the supported activity.
+ When anticipated, the budget must identify and itemize other anticipated
+ direct costs not included under the headings above, including materials
+ and supplies, publication costs, computer services and consultant services.
+ Examples include aircraft rental, space rental at research establishments
+ away from the proposing organization, minor building alterations, payments
+ to human subjects, and service charges.
+ Reference books and periodicals only may be included on the proposal budget
+ if they are specifically allocable to the project being supported by NSF.
+\end_layout
+
+\begin_layout Plain Layout
+##### Materials and Supplies (including Costs of Computing Devices) (Line
+ G1 on the Proposal Budget) When anticipated, the proposal budget justification
+ must indicate the general types of expendable materials and supplies required.
+ Supplies are defined as all tangible personal property other than those
+ described in paragraph (d)(iii) above.
+ A computing device is considered a supply if the acquisition cost is less
+ than the lesser of the capitalization level established by the proposer
+ or $5,000, regardless of the length of its useful life.
+ In the specific case of computing devices, charging as a direct cost is
+ allowable for devices that are essential and allocable, but not solely
+ dedicated, to the performance of the NSF project.
+ Details and justification must be included for items requested to support
+ the project.
+\end_layout
+
+\begin_layout Plain Layout
+##### Publication/Documentation/Dissemination (Line G2 on the Proposal Budget)
+ The proposal budget may request funds for the costs of documenting, preparing,
+ publishing or otherwise making available to others the findings and products
+ of the work conducted under the grant.
+ This generally includes the following types of activities: reports, reprints,
+ page charges or other journal costs (except costs for prior or early publicatio
+n); necessary illustrations; cleanup, documentation, storage and indexing
+ of data and databases; development, documentation and debugging of software;
+ and storage, preservation, documentation, indexing, etc., of physical specimens,
+ collections or fabricated items.
+\end_layout
+
+\begin_layout Plain Layout
+##### Consultant Services (also referred to as Professional Service Costs)
+ (Line G3 on the Proposal Budget) The proposal budget may request costs
+ for professional and consultant services.
+ Professional and consultant services are services rendered by persons who
+ are members of a particular profession or possess a special skill, and
+ who are not officers or employees of the proposing organization.
+ Costs of professional and consultant services are allowable when reasonable
+ in relation to the services rendered and when not contingent upon recovery
+ of costs from the Federal government.
+ Anticipated services must be justified and information furnished on each
+ individual’s expertise, primary organizational affiliation, normal daily
+ compensation rate, and number of days of expected service.
+ Consultants’ travel costs, including subsistence, may be included.
+ If requested, the proposer must be able to justify that the proposed rate
+ of pay is reasonable.
+ Additional information on the allowability of consultant or professional
+ service costs is available in 2 CFR § 200.459.
+ In addition to other provisions required by the proposing organization,
+ all contracts made under the NSF award must contain the applicable provisions
+ identified in 2 CFR § 200 Appendix II.
+\end_layout
+
+\begin_layout Plain Layout
+##### Computer Services (Line G4 on the Proposal Budget) The cost of computer
+ services, including computer-based retrieval of scientific, technical and
+ educational information, may be requested only where it is institutional
+ policy to charge such costs as direct charges.
+ A justification based on the established computer service rates at the
+ proposing organization must be included.
+ The proposal budget also may request costs for leasing of computer equipment.
+ As noted in Chapter II.C.2.g(iii), general purpose (such as word processing,
+ spreadsheets, communication) computer equipment should not be requested.
+ Note: See paragraph (a) above for guidance on acquisition of computing
+ devices.
+\end_layout
+
+\begin_layout Plain Layout
+##### Subawards21 (Line G5 on the Proposal Budget) Except for the purchase
+ of materials and supplies, equipment or general support services allowable
+ under the grant, no portion of the proposed activity may be subawarded,
+ transferred, or contracted out to another organization without prior written
+ NSF authorization.
+ Such authorization must be provided either through inclusion of the subaward(s)
+ on an NSF award budget or by receiving written prior approval from the
+ cognizant NSF Grants Officer after an award is issued.
+ If known at the time of proposal submission, the intent to enter into such
+ arrangements must be disclosed in the proposal.
+ A separate budget and a budget justification of no more than three pages,
+ must be provided for each subrecipient, if already identified, along with
+ a description of the work to be performed.
+ All proposing organizations are required to make a case-by-case determination
+ regarding the role of a subrecipient versus contractor for each agreement
+ it makes.
+ 2 CFR § 200.330 provides characteristics of each type of arrangement to
+ assist proposing organizations in making that determination.
+ However, inclusion of a subaward or contract in the proposal budget or
+ submission of a request after issuance of an NSF award to add a subaward
+ or contract will document the organizational determination required.
+ It is NSF’s expectation that, consistent with 2 CFR § 200.414, NSF grantees
+ will use the domestic subrecipient’s applicable US Federally negotiated
+ indirect cost rate(s).
+ If no such rate exists, the NSF grantee may either negotiate a rate or
+ will fund the subrecipient using the de minimis indirect cost rate recovery
+ of 10% of modified total direct costs.
+ It is also NSF’s expectation that NSF grantees will use the foreign subrecipien
+t’s applicable US Federally negotiated indirect cost rate(s).
+ However, if no such rate exists, the NSF grantee will fund the foreign
+ subrecipient using the de minimis indirect cost rate recovery of 10% of
+ modified total direct costs.
+\end_layout
+
+\begin_layout Plain Layout
+##### Other (Line G6 on the Proposal Budget) Any other direct costs not
+ specified in Lines G1 through G5 must be identified on Line G6.
+ Such costs must be itemized and detailed in the budget justification.
+ Incentive payments, for example, payments to human subjects or incentives
+ to promote completion of a survey, should be included on line G6 of the
+ NSF budget.
+ Incentive payments should be proposed in accordance with organizational
+ policies and procedures.
+ Indirect costs should be calculated on incentive payments in accordance
+ with the organization’s approved US Federally negotiated indirect cost
+ rate(s).
+ Performance based incentive payments to employees as described in 2 CFR
+ §200.430(f) should not be included in this section of the budget.
+\end_layout
+
+\begin_layout Plain Layout
+#### Total direct costs
+\end_layout
+
+\begin_layout Plain Layout
+rest p.
+ 28+ CONTINUE 
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+1) Includes coverage on costs of computing devices 2) The charging of computing
+ devices as a direct cost is allowable for devices that are essential and
+ allocable, but not solely dedicated, to the performance of the NSF award
+\series bold
+ G5.
+
+\series default
+ Includes tuition for graduate students participating in the program.
+\end_layout
+
+\begin_layout Subsection
+H.
+ Indirect Costs
+\end_layout
+
+\begin_layout Standard
+\noindent
+Overhead at a rate of X% is charged on all direct salaries and wages, applicable
+ fringe benefits, materials and supplies, services, travel and subawards
+ up to the first $X of each subaward.
+ Excluded are equipment and the portion of each subaward in excess of $X.
+\end_layout
+
+\end_body
+\end_document

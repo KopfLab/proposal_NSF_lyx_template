@@ -72,6 +72,51 @@
 
 \begin_body
 
+\begin_layout Standard
+\begin_inset Note Note
+status open
+
+\begin_layout Plain Layout
+Summary:
+\end_layout
+
+\begin_layout Plain Layout
+Each proposal must contain a summary of the proposed project 
+\series bold
+not more than one page in length
+\series default
+.
+ The Project Summary consists of an overview, a statement on the intellectual
+ merit of the proposed activity, and a statement on the broader impacts
+ of the proposed activity.
+\end_layout
+
+\begin_layout Plain Layout
+The Project Summary should be written in the third person, informative to
+ other persons working in the same or related fields, and, insofar as possible,
+ understandable to a scientifically or technically literate lay reader.
+ It should not be an abstract of the proposal.
+\end_layout
+
+\begin_layout Plain Layout
+The Project Summary may ONLY be uploaded as a Supplementary Document if
+ use of special characters is necessary.
+ Such 
+\series bold
+Project Summaries must be formatted with separate headings for Overview,
+ Intellectual Merit and Broader Impacts
+\series default
+.
+ Failure to include these headings will result in the proposal being returned
+ without review.
+ 
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
 \begin_layout ProposalSection
 B
 \end_layout
@@ -85,40 +130,16 @@ Overview
 \end_layout
 
 \begin_layout Standard
-Each proposal must contain a summary of the proposed project not more than
-\series bold
-one page in length
-\series default
-.
- The Project Summary consists of an overview, a statement on the intellectual
- merit of the proposed activity, and a statement on the broader impacts
- of the proposed activity.
- The overview includes a description of the activity that would result if
+\begin_inset Note Note
+status open
+
+\begin_layout Plain Layout
+The overview includes a description of the activity that would result if
  the proposal were funded and a statement of objectives and methods to be
  employed.
+ 
 \end_layout
 
-\begin_layout Standard
-The Project Summary should be written in the third person, informative to
- other persons working in the same or related fields, and, insofar as possible,
- understandable to a scientifically or technically literate lay reader.
- It should not be an abstract of the proposal.
-\end_layout
-
-\begin_layout Standard
-If the Project Summary contains special characters it may be uploaded as
- a Supplementary Document.
-\series bold
-Project Summaries submitted as a PDF must be formatted with separate headings
- for the overview, statement on the intellectual merit of the proposed activity,
- and statement on the broader impacts of the proposed activity
-\series default
-.
- Failure to include these headings may result in the proposal being returned
- without review.
- Additional instructions for preparation of the Project Summary are available
- in FastLane.
-\begin_inset Newline newline
 \end_inset
 
 
@@ -129,8 +150,18 @@ Intellectual Merit
 \end_layout
 
 \begin_layout Standard
+\begin_inset Note Note
+status open
+
+\begin_layout Plain Layout
 The statement on intellectual merit should describe the potential of the
  proposed activity to advance knowledge.
+ 
+\end_layout
+
+\end_inset
+
+
 \end_layout
 
 \begin_layout Subsection
@@ -138,9 +169,18 @@ Broader Impacts of the Proposed Work
 \end_layout
 
 \begin_layout Standard
+\begin_inset Note Note
+status open
+
+\begin_layout Plain Layout
 The statement on broader impacts should describe the potential of the proposed
  activity to benefit society and contribute to the achievement of specific,
  desired societal outcomes.
+\end_layout
+
+\end_inset
+
+
 \end_layout
 
 \end_body
