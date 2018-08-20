@@ -14,6 +14,15 @@ Style ProposalTitle
 	EndFont
 End
 
+Style ProposalRunningTitle
+	LatexType Command
+	LatexName fancyfoot[L]
+  Align Center
+  Font
+	  Size Large
+	EndFont
+End
+
 
 Style ProposalSection
 	LatexType Command

@@ -76,6 +76,12 @@
 Enter proposal title
 \end_layout
 
+\begin_layout ProposalRunningTitle
+
+\emph on
+Enter proposal running title (displayed on each page)
+\end_layout
+
 \begin_layout Standard
 \begin_inset Note Note
 status open
@@ -346,7 +352,7 @@ Cover Sheet
 \end_layout
 
 \begin_layout Standard
-Produced by fastlane, type in information there.
+Produced by fastlane, enter information there.
 \begin_inset Newpage pagebreak
 \end_inset
 
