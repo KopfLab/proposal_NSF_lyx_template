@@ -528,12 +528,28 @@ status open
 H: Current and Pending Support
 \end_layout
 
+\begin_layout Plain Layout
+In FastLane, Current and Pending Support for all senior project personnel
+ must be uploaded as a single PDF file or inserted as text associated with
+ that individual.
+\end_layout
+
 \end_inset
 
 
 \begin_inset CommandInset include
 LatexCommand include
-filename "H_current_pending.lyx"
+filename "H1_current_pending.lyx"
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset CommandInset include
+LatexCommand include
+filename "H2_current_pending.lyx"
 
 \end_inset
 
