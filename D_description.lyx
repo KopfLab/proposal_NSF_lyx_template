@@ -80,34 +80,107 @@ D
 Project Description
 \end_layout
 
-\begin_layout Subsection
-Introduction
-\end_layout
-
-\begin_layout Subsection
-Proposed Study
-\end_layout
-
 \begin_layout Standard
+\begin_inset Note Note
+status open
+
+\begin_layout Plain Layout
+
+\series bold
+Project Description:
+\end_layout
+
+\begin_layout Plain Layout
+
+\series bold
+Instructions
+\end_layout
+
+\begin_layout Plain Layout
 The Project Description should provide a clear statement of the work to
- be undertaken and must include: objectives for the period of the proposed
- work and expected significance; relation to longer-term goals of the PI's
- project; and relation to the present state of knowledge in the field, to
- work in progress by the PI under other support and to work in progress
- elsewhere.
+ be undertaken and must include the objectives for the period of the proposed
+ work and expected significance; the relationship of this work to the present
+ state of knowledge in the field, as well as to work in progress by the
+ PI under other support.
 \end_layout
 
-\begin_layout Standard
+\begin_layout Plain Layout
 The Project Description should outline the general plan of work, including
  the broad design of activities to be undertaken, and, where appropriate,
  provide a clear description of experimental methods and procedures.
- Proposers should address what they want to do, why they want to do it,
- how they plan to do it, how they will know if they succeed, and what benefits
+\end_layout
+
+\begin_layout Plain Layout
+Proposers should address what they want to do, why they want to do it, how
+ they plan to do it, how they will know if they succeed, and what benefits
  could accrue if the project is successful.
  The project activities may be based on previously established and/or innovative
  methods and approaches, but in either case must be well justified.
  These issues apply to both the technical aspects of the proposal and the
  way in which the project may make broader contributions.
+\end_layout
+
+\begin_layout Plain Layout
+Brevity will assist reviewers and Foundation staff in dealing effectively
+ with proposals.
+ Therefore, the Project Description (including Results from Prior NSF Support,
+ which is limited to five pages) 
+\series bold
+may not exceed 15 pages
+\series default
+.
+ Visual materials, including charts, graphs, maps, photographs and other
+ pictorial presentations are included in the 15-page limitation.
+ PIs are cautioned that the Project Description must be self-contained and
+ that URLs must not be used because: 1) the information could circumvent
+ page limitations; 2) the reviewers are under no obligation to view the
+ sites; and 3) the sites could be altered or deleted between the time of
+ submission and the time of review.
+\end_layout
+
+\begin_layout Plain Layout
+
+\series bold
+Additional notes for broader impacts and prior support are included in the
+ relevant sections below.
+\end_layout
+
+\begin_layout Plain Layout
+
+\series bold
+Side note: unfunded Collaborations
+\end_layout
+
+\begin_layout Plain Layout
+Any substantial collaboration with individuals not included in the budget
+ should be described in the Facilities, Equipment and Other Resources section
+ of the proposal (see Chapter II.C.2.i) and documented in a letter of collaboration
+ from each collaborator.
+ Such letters should be provided in the supplementary documentation section
+ of the FastLane Proposal Preparation Module and follow the format instructions
+ specified in Chapter II.C.2.j.
+ Collaborative activities that are identified in the budget should follow
+ the instructions in Chapter II.D.3.
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Subsection
+1.
+ Introduction and Specific Aims
+\end_layout
+
+\begin_layout Subsection
+2.
+ Background
+\end_layout
+
+\begin_layout Subsection
+3.
+ Research Plan
 \end_layout
 
 \begin_layout Subsubsection
@@ -1141,17 +1214,36 @@ Click on the float: Table to expand & edit the table.
 
 \end_layout
 
+\begin_layout Subsubsection
+Specific Aim 1:
+\end_layout
+
+\begin_layout Subsubsection
+Specific Aim 2:
+\end_layout
+
+\begin_layout Subsubsection
+Specific Aim 3:
+\end_layout
+
 \begin_layout Subsection
-Broader Impacts of the Proposed Work
+4.
+ Broader Impacts of the Proposed Work
 \end_layout
 
 \begin_layout Standard
-The Project Description must contain, as a separate section within the narrative
-, a section labeled 
-\begin_inset Quotes eld
-\end_inset
+\begin_inset Note Note
+status open
 
-Broader Impacts of the Proposed Work".
+\begin_layout Plain Layout
+
+\series bold
+Borader Impacts
+\end_layout
+
+\begin_layout Plain Layout
+The Project Description must contain, as a separate section within the narrative
+, a section labeled “Broader Impacts”.
  This section should provide a discussion of the broader impacts of the
  proposed activities.
  Broader impacts may be accomplished through the research itself, through
@@ -1165,14 +1257,123 @@ Broader Impacts of the Proposed Work".
  technology, engineering, and mathematics (STEM); improved STEM education
  and educator development at any level; increased public scientific literacy
  and public engagement with science and technology; improved well-being
- of individuals in society; development of a diverse,globally competitive
+ of individuals in society; development of a diverse, globally competitive
  STEM workforce; increased partnerships between academia, industry, and
  others; improved national security; increased economic competitiveness
- of the United States; and enhanced infrastructure for research and education.
+ of the US; and enhanced infrastructure for research and education.
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Subsubsection
+Training
+\end_layout
+
+\begin_layout Subsubsection
+Outreach
+\end_layout
+
+\begin_layout Subsubsection
+Communication of Research
 \end_layout
 
 \begin_layout Subsection
-Results from Prior NSF Support
+5.
+ Management plan and personnel
+\end_layout
+
+\begin_layout Standard
+\begin_inset Note Note
+status open
+
+\begin_layout Plain Layout
+
+\series bold
+Note: 
+\series default
+this section is not required but often useful
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Subsubsection
+Research team
+\end_layout
+
+\begin_layout Subsubsection
+Timeline
+\end_layout
+
+\begin_layout Subsection
+6.
+ Results from Prior NSF Support
+\end_layout
+
+\begin_layout Standard
+\begin_inset Note Note
+status open
+
+\begin_layout Plain Layout
+
+\series bold
+Results from prior NSF support (p.
+ 19, general guidelines)
+\end_layout
+
+\begin_layout Plain Layout
+The purpose of this section is to assist reviewers in assessing the quality
+ of prior work conducted with current or prior NSF funding.
+ If any PI or co-PI identified on the proposal has received NSF support
+ with a start date in the past five years (including any current funding
+ and no cost extensions), information on the award is required for each
+ PI and co-PI, regardless of whether the support was directly related to
+ the proposal or not.
+ In cases where the PI or any co-PI has received more than one award (excluding
+ amendments to existing awards), they need only report on the one award
+ that is most closely related to the proposal.
+ Support includes not just salary support, but any funding awarded by NSF.
+ NSF awards such as standard or continuing grants, Graduate Research Fellowship,
+ Major Research Instrumentation, conference, equipment, travel, and center
+ awards, etc., are subject to this requirement.
+\end_layout
+
+\begin_layout Plain Layout
+The following information must be provided:
+\end_layout
+
+\begin_layout Plain Layout
+(a) the NSF award number, amount and period of support; (b) the title of
+ the project; (c) a summary of the results of the completed work, including
+ accomplishments, supported by the award.
+ The results must be separately described under two distinct headings: Intellect
+ual Merit and Broader Impacts; (d) a listing of the publications resulting
+ from the NSF award (a complete bibliographic citation for each publication
+ must be provided either in this section or in the References Cited section
+ of the proposal); if none, state “No publications were produced under this
+ award.” (e) evidence of research products and their availability, including,
+ but not limited to: data, publications, samples, physical collections,
+ software, and models, as described in any Data Management Plan; and (f)
+ if the proposal is for renewed support, a description of the relation of
+ the completed work to the proposed work.
+\end_layout
+
+\begin_layout Plain Layout
+If the project was recently awarded and therefore no new results exist,
+ describe the major goals and broader impacts of the project.
+ Note that the proposal may contain up to five pages to describe the results.
+ Results may be summarized in fewer than five pages, which would give the
+ balance of the 15 pages for the Project Description.
+\end_layout
+
+\end_inset
+
+
 \end_layout
 
 \begin_layout Standard
@@ -1249,10 +1450,53 @@ References Cited
 \end_layout
 
 \begin_layout Standard
-
-\series bold
 \begin_inset Note Note
 status open
+
+\begin_layout Plain Layout
+
+\series bold
+References
+\end_layout
+
+\begin_layout Plain Layout
+Reference information is required.
+ 
+\series bold
+Each reference must include the names of all authors (in the same sequence
+ in which they appear in the publication), the article and journal title,
+ book title, volume number, page numbers, and year of publication
+\series default
+.
+ (See also Chapter II.C.2.d(iii)(d)) If the proposer has a 
+\series bold
+website address readily available, that information should be included in
+ the citation
+\series default
+.
+ It is not NSF's intent, however, to place an undue burden on proposers
+ to search for the URL of every referenced publication.
+ Therefore, inclusion of a website address is optional.
+ A proposal that includes reference citation(s) that do not specify a URL
+ is not considered to be in violation of NSF proposal preparation guidelines
+ and the proposal will still be reviewed.
+\end_layout
+
+\begin_layout Plain Layout
+Proposers must be especially careful to follow accepted scholarly practices
+ in providing citations for source materials relied upon when preparing
+ any section of the proposal.
+ While there is no established page limitation for the references, this
+ section must include bibliographic citations only and must not be used
+ to provide parenthetical information outside of the 15-page Project Description.
+ 
+\end_layout
+
+\begin_layout Plain Layout
+
+\series bold
+Technical aspects
+\end_layout
 
 \begin_layout Plain Layout
 Citation style for alphabetical with author year in text:
