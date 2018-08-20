@@ -8,6 +8,7 @@ Icon*
 
 ## Rendered files
 /*.pdf
+/output/*
 
 ## Core latex/pdflatex auxiliary files:
 *.aux
