@@ -1,5 +1,5 @@
-#LyX 2.2 created this file. For more info see http://www.lyx.org/
-\lyxformat 508
+#LyX 2.3 created this file. For more info see http://www.lyx.org/
+\lyxformat 544
 \begin_document
 \begin_header
 \save_transient_properties true
@@ -21,6 +21,8 @@
 \font_osf false
 \font_sf_scale 100 100
 \font_tt_scale 100 100
+\use_microtype false
+\use_dash_ligatures true
 \graphics default
 \default_output_format default
 \output_sync 1
@@ -42,15 +44,18 @@
 \use_package stackrel 0
 \use_package stmaryrd 0
 \use_package undertilde 0
-\cite_engine natbib
+\cite_engine biblatex-natbib
 \cite_engine_type authoryear
-\biblio_style 
-\use_bibtopic true
+\biblio_style \use_bibtopic true
+\biblatex_bibstyle authoryear
+\biblatex_citestyle authoryear
+\use_bibtopic false
 \use_indices false
 \paperorientation portrait
 \suppress_date false
 \justification true
 \use_refstyle 0
+\use_minted 0
 \index Index
 \shortcut idx
 \color #008000
@@ -59,7 +64,10 @@
 \tocdepth 3
 \paragraph_separation indent
 \paragraph_indentation default
-\quotes_language english
+\is_math_indent 0
+\math_numbering_side default
+\quotes_style english
+\dynamic_quotes 0
 \papercolumns 1
 \papersides 1
 \paperpagestyle default
@@ -192,6 +200,7 @@ Citation test with one of the greatest papers of all time is
 \begin_inset CommandInset citation
 LatexCommand citet
 key "Hayes:2001vca"
+literal "true"
 
 \end_inset
 
@@ -201,6 +210,7 @@ key "Hayes:2001vca"
 LatexCommand citep
 before "see"
 key "Hayes:2001vca"
+literal "true"
 
 \end_inset
 
@@ -284,6 +294,7 @@ Caption that is displayed on the side.
 \begin_inset CommandInset citation
 LatexCommand citet
 key "Hayes:2001vca"
+literal "true"
 
 \end_inset
 
@@ -1497,8 +1508,8 @@ Citation style for alphabetical with author year in text:
 \end_layout
 
 \begin_layout Plain Layout
-- Menu -> Document -> Settings -> Bibliography -> Citation Style: natbib
- -> Natbib style: author-year
+- Menu -> Document -> Settings -> Bibliography -> Citation Style: Biblatex
+ (natbib mode) -> Variant: author-year
 \end_layout
 
 \begin_layout Plain Layout
@@ -1511,8 +1522,8 @@ Citation style for alphabetical with numbers in text:
 \end_layout
 
 \begin_layout Plain Layout
-- Menu -> Document -> Settings -> Bibliography -> Citation Style: natbib
- -> Natbib style: numerical
+- Menu -> Document -> Settings -> Bibliography -> Citation Style: Biblatex
+ (natbib mode) -> Natbib style: numerical
 \end_layout
 
 \begin_layout Plain Layout
@@ -1530,7 +1541,7 @@ Citation style for order of occurence with numbers in text:
 
 \begin_layout Plain Layout
 - In theory, should be: Menu -> Document -> Settings -> Bibliography ->
- Citation Style: natbib -> Natbib style: numerical
+ Citation Style: Biblatex (natbib mode) -> Natbib style: numerical
 \end_layout
 
 \begin_layout Plain Layout
