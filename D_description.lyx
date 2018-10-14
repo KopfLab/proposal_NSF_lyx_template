@@ -1508,6 +1508,22 @@ then make the more specific style adjustments below
 \end_layout
 
 \begin_layout Plain Layout
+Note on numeric references -> to make them superscript, select the 
+\series bold
+super
+\series default
+ style in the individual references (or replace 
+\series bold
+citep
+\series default
+ with 
+\series bold
+supercite 
+\series default
+throughout the document sources)
+\end_layout
+
+\begin_layout Plain Layout
 
 \series bold
 Citation style for alphabetical with author year in text:
