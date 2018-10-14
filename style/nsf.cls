@@ -25,8 +25,14 @@
 
 \RequirePackage{titlecaps}
 \RequirePackage[explicit]{titlesec}
+% section titles with underline
 \titleformat{\section}{\Large\bfseries\filcenter}{}{0pt}{\titlecap{#1}\\\rule{\textwidth}{0.4pt}}
-\titleformat{\subsection}{\large\bfseries}{}{0pt}{\titlecap{#1}}
+% subsection without numbering
+% \titleformat{\subsection}{\large\bfseries}{}{0pt}{\titlecap{#1}}
+% subsection with numbering
+\renewcommand{\thesubsection}{\arabic{subsection}}
+\titleformat{\subsection}{\large\bfseries}{}{0pt}{\thesubsection. \titlecap{#1}}
+% subsub section without numbering
 \titleformat{\subsubsection}{\bfseries}{}{0pt}{\titlecap{#1}}
 %\titlespacing*{\section}{0pt}{0.5em}{0.3pt}
 %\titlespacing*{\subsection}{0pt}{0.35em}{0pt}
