@@ -45,10 +45,10 @@
 \use_package stmaryrd 0
 \use_package undertilde 0
 \cite_engine biblatex-natbib
-\cite_engine_type authoryear
+\cite_engine_type numerical
 \biblio_style \use_bibtopic true
-\biblatex_bibstyle authoryear
-\biblatex_citestyle authoryear
+\biblatex_bibstyle numeric
+\biblatex_citestyle trad-unsrt
 \use_bibtopic false
 \use_indices false
 \paperorientation portrait
@@ -1450,10 +1450,6 @@ Research Products:
 E
 \end_layout
 
-\begin_layout Section
-References Cited
-\end_layout
-
 \begin_layout Standard
 \begin_inset Note Note
 status open
@@ -1504,49 +1500,107 @@ Technical aspects
 \end_layout
 
 \begin_layout Plain Layout
+Go to Menu -> Document -> Settings -> Bibliography: select
+\series bold
+ Citation Style: Biblatex (natbib mode) 
+\series default
+then make the more specific style adjustments below
+\end_layout
+
+\begin_layout Plain Layout
+
+\series bold
 Citation style for alphabetical with author year in text:
 \end_layout
 
 \begin_layout Plain Layout
-- Menu -> Document -> Settings -> Bibliography -> Citation Style: Biblatex
- (natbib mode) -> Variant: author-year
+- Variant: author-year 
 \end_layout
 
 \begin_layout Plain Layout
-- BibTex Generated Bibliography (below) -> Style: style/elsarticle-harv
- (other styles are also possible but this one works well)
+- Biblatx citation style: authoryear (the default) 
 \end_layout
 
 \begin_layout Plain Layout
+- Biblatex bibliography style: 
+\series bold
+trad-standard 
+\series default
+(alphabetical, full names, no listing numbers) or 
+\series bold
+trad-plain 
+\series default
+(alphabetical, full names, numbered listing) or 
+\series bold
+trad-abbrv 
+\series default
+(alphabetical, still all authors but abbreviated first names, numbered listing)
+\end_layout
+
+\begin_layout Plain Layout
+
+\series bold
 Citation style for alphabetical with numbers in text:
 \end_layout
 
 \begin_layout Plain Layout
-- Menu -> Document -> Settings -> Bibliography -> Citation Style: Biblatex
- (natbib mode) -> Natbib style: numerical
+- Variant: author-number 
 \end_layout
 
 \begin_layout Plain Layout
-- BibTex Generated Bibliography (below) -> Style: style/elsarticle-harv
- (other styles are also possible but this one works well)
+- Bibltax citation style: numeric (the default) 
 \end_layout
 
 \begin_layout Plain Layout
+- Biblatex bibliography style: 
+\series bold
+trad-plain
+\series default
+ (alphabetical, full names, numbered listing) or 
+\series bold
+trad-abbrv
+\series default
+ (alphabetical, still all authors but abbreviated first names, numbered
+ listing)
+\end_layout
+
+\begin_layout Plain Layout
+
+\series bold
 Citation style for order of occurence with numbers in text:
 \end_layout
 
 \begin_layout Plain Layout
-- NOTE: could not get this to work reliably, investigate more if needed
+- Variant: author-number
 \end_layout
 
 \begin_layout Plain Layout
-- In theory, should be: Menu -> Document -> Settings -> Bibliography ->
- Citation Style: Biblatex (natbib mode) -> Natbib style: numerical
+- Biblatex citation style: numeric (the default)
 \end_layout
 
 \begin_layout Plain Layout
-- and BibTex Generated Bibliography (below) -> Style: unsrt (or some other
- closely related one)
+- Biblatex bibliography style: 
+\series bold
+trad-unsrt 
+\series default
+(numbered in order of appearance, full names) - ideally have one with abbreviate
+d names here too but that does not exist by default
+\end_layout
+
+\begin_layout Plain Layout
+For details on all syles (and potentially making your own): go to 
+\series bold
+Tools
+\series default
+ -> 
+\series bold
+TeX Information 
+\series default
+-> 
+\series bold
+BibLatex Bibliogrpahy styles 
+\series default
+(can look at paths and then look at the files themselves)
 \end_layout
 
 \end_inset
@@ -1559,7 +1613,6 @@ Citation style for order of occurence with numbers in text:
 LatexCommand bibtex
 btprint "btPrintCited"
 bibfiles "E_references"
-options "style/elsarticle-harv"
 
 \end_inset
 
