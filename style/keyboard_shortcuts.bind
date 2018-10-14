@@ -212,10 +212,10 @@ Format 2
 \bind "C-Left"                       "line-begin"
 #  +: "Command-Down Arrow"           # Move the text insertion point to the end of the document
 \bind "C-Down"                       "buffer-end"
-\bind "M-A-Down"                     "inset-end" 
+\bind "M-A-Down"                     "inset-end"
 #  +: "Command-Up Arrow"             # Move the text insertion point to the beginning of the document
 \bind "C-Up"                         "buffer-begin"
-\bind "M-A-Up"                       "inset-begin" 
+\bind "M-A-Up"                       "inset-begin"
 #  +: "Shift-Command-Right Arrow"    # Select text between the insertion point and the end of the current line (*)
 \bind "S-C-Right"                    "line-end-select"
 #  +: "Shift-Command-Left Arrow"     # Select text between the insertion point and the beginning of the current line (*)
@@ -241,11 +241,11 @@ Format 2
 #  +: "Shift-Option-Down Arrow"      # Extend text selection to the end of the current paragraph, then to the end of the following paragraph if pressed again (*)
 \bind "A-Down"                       "paragraph-down"
 \bind "S-A-Down"                     "paragraph-down-select"
-\bind "S-M-A-Down"                   "inset-end-select" 
+\bind "S-M-A-Down"                   "inset-end-select"
 #  +: "Shift-Option-Up Arrow"        # Extend text selection to the beginning of the current paragraph, then to the beginning of the following paragraph if pressed again (*)
 \bind "A-Up"                         "paragraph-up"
 \bind "S-A-Up"                       "paragraph-up-select"
-\bind "S-M-A-Up"                     "inset-begin-select" 
+\bind "S-M-A-Up"                     "inset-begin-select"
 #  -: "Control-Space"                # Toggle between the current and previous input sources
 #  -: "Option-Control-Space"         # Toggle through all enabled input sources
 #  +: "Option-Command-esc"           # Force Quit
@@ -373,3 +373,24 @@ Format 2
 \bind_file latinkeys.bind
 \bind_file cyrkeys.bind
 \bind_file greekkeys.bind
+
+# Custom bindings
+\unbind "C-n" "buffer-new"
+\unbind "C-plus" "buffer-zoom-in"
+\unbind "C-minus" "buffer-zoom-out"
+\unbind "C-S-equal" "buffer-zoom-in"
+\unbind "C-equal" "buffer-zoom-in"
+\unbind "C-i" "inset-toggle"
+\unbind "C-e" "font-emph"
+
+\bind "C-n" "note-insert"
+\bind "C-A-f" "forward-search"
+\bind "C-A-c" "dialog-show-new-inset citation"
+\bind "C-A-r" "dialog-show-new-inset ref"
+\bind "M-equal" "buffer-zoom-in"
+\bind "M-minus" "buffer-zoom-out"
+\bind "C-S-equal" "script-insert superscript"
+\bind "C-equal" "script-insert subscript"
+\bind "C-i" "font-emph"
+\bind "C-S-a" "change-accept"
+\bind "A-l" "label-insert"
