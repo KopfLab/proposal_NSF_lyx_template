@@ -1,10 +1,10 @@
-#LyX 2.2 created this file. For more info see http://www.lyx.org/
-\lyxformat 508
+#LyX 2.3 created this file. For more info see http://www.lyx.org/
+\lyxformat 544
 \begin_document
 \begin_header
 \save_transient_properties true
 \origin unavailable
-\textclass style/nsf
+\textclass "../2018_NSF Exo_Wil/proposal_anoxic_H_isotopes/style/nsf"
 \use_default_options false
 \maintain_unincluded_children false
 \language english
@@ -21,6 +21,8 @@
 \font_osf false
 \font_sf_scale 100 100
 \font_tt_scale 100 100
+\use_microtype false
+\use_dash_ligatures true
 \graphics default
 \default_output_format default
 \output_sync 1
@@ -51,6 +53,7 @@
 \suppress_date false
 \justification true
 \use_refstyle 0
+\use_minted 0
 \index Index
 \shortcut idx
 \color #008000
@@ -59,7 +62,10 @@
 \tocdepth 3
 \paragraph_separation indent
 \paragraph_indentation default
-\quotes_language english
+\is_math_indent 0
+\math_numbering_side default
+\quotes_style english
+\dynamic_quotes 0
 \papercolumns 1
 \papersides 1
 \paperpagestyle default
@@ -151,13 +157,13 @@ investigator full name
 \end_layout
 
 \begin_layout Subsection
-Pending
+Current
 \end_layout
 
 \begin_layout Labeling
 \labelwidthstring 00.00.0000
 \begin_inset Tabular
-<lyxtabular version="3" rows="7" columns="2">
+<lyxtabular version="3" rows="8" columns="2">
 <features tabularvalignment="middle">
 <column alignment="left" valignment="top">
 <column alignment="left" valignment="top">
@@ -177,25 +183,47 @@ Project Title:
 \begin_inset Text
 
 \begin_layout Plain Layout
-Proposal title
+
 \end_layout
 
 \end_inset
 </cell>
 </row>
 <row>
-<cell alignment="left" valignment="top" usebox="none">
+<cell alignment="center" valignment="top" usebox="none">
 \begin_inset Text
 
 \begin_layout Plain Layout
 
 \series bold
-Project Location:
+Project PI:
 \end_layout
 
 \end_inset
 </cell>
-<cell alignment="none" valignment="top" usebox="none">
+<cell alignment="center" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="center" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\series bold
+Project Co-PIs:
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" usebox="none">
 \begin_inset Text
 
 \begin_layout Plain Layout
@@ -221,7 +249,7 @@ Source of Support:
 \begin_inset Text
 
 \begin_layout Plain Layout
-NSF
+
 \end_layout
 
 \end_inset
@@ -294,22 +322,32 @@ Person-months / year:
 </cell>
 </row>
 <row>
-<cell alignment="left" valignment="top" usebox="none">
+<cell alignment="center" valignment="top" usebox="none">
 \begin_inset Text
 
 \begin_layout Plain Layout
 
 \series bold
-Status:
+Overlap:
 \end_layout
 
 \end_inset
 </cell>
-<cell alignment="left" valignment="top" usebox="none">
+<cell alignment="center" valignment="top" usebox="none">
 \begin_inset Text
 
 \begin_layout Plain Layout
-Pending (this proposal)
+There is no overlap with the proposed work 
+\begin_inset Note Note
+status open
+
+\begin_layout Plain Layout
+adjust/explain if different
+\end_layout
+
+\end_inset
+
+
 \end_layout
 
 \end_inset
@@ -333,7 +371,7 @@ Pending (this proposal)
 \begin_layout Labeling
 \labelwidthstring 00.00.0000
 \begin_inset Tabular
-<lyxtabular version="3" rows="7" columns="2">
+<lyxtabular version="3" rows="8" columns="2">
 <features tabularvalignment="middle">
 <column alignment="left" valignment="top">
 <column alignment="left" valignment="top">
@@ -353,25 +391,47 @@ Project Title:
 \begin_inset Text
 
 \begin_layout Plain Layout
-Proposal title
+
 \end_layout
 
 \end_inset
 </cell>
 </row>
 <row>
-<cell alignment="left" valignment="top" usebox="none">
+<cell alignment="center" valignment="top" usebox="none">
 \begin_inset Text
 
 \begin_layout Plain Layout
 
 \series bold
-Project Location:
+Project PI:
 \end_layout
 
 \end_inset
 </cell>
-<cell alignment="none" valignment="top" usebox="none">
+<cell alignment="center" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="center" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\series bold
+Project Co-PIs:
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" usebox="none">
 \begin_inset Text
 
 \begin_layout Plain Layout
@@ -470,22 +530,32 @@ Person-months / year:
 </cell>
 </row>
 <row>
-<cell alignment="left" valignment="top" usebox="none">
+<cell alignment="center" valignment="top" usebox="none">
 \begin_inset Text
 
 \begin_layout Plain Layout
 
 \series bold
-Status:
+Overlap:
 \end_layout
 
 \end_inset
 </cell>
-<cell alignment="left" valignment="top" usebox="none">
+<cell alignment="center" valignment="top" usebox="none">
 \begin_inset Text
 
 \begin_layout Plain Layout
-Pending
+There is no overlap with the proposed work 
+\begin_inset Note Note
+status open
+
+\begin_layout Plain Layout
+adjust/explain if different
+\end_layout
+
+\end_inset
+
+
 \end_layout
 
 \end_inset
@@ -499,7 +569,7 @@ Pending
 \end_layout
 
 \begin_layout Subsection
-Current
+Pending
 \end_layout
 
 \begin_layout Labeling
@@ -525,25 +595,56 @@ Project Title:
 \begin_inset Text
 
 \begin_layout Plain Layout
-Proposal title
+\begin_inset Note Note
+status open
+
+\begin_layout Plain Layout
+add title of the current proposal
+\end_layout
+
+\end_inset
+
+(THIS PROPOSAL).
 \end_layout
 
 \end_inset
 </cell>
 </row>
 <row>
-<cell alignment="left" valignment="top" usebox="none">
+<cell alignment="center" valignment="top" usebox="none">
 \begin_inset Text
 
 \begin_layout Plain Layout
 
 \series bold
-Project Location:
+Project PI:
 \end_layout
 
 \end_inset
 </cell>
-<cell alignment="none" valignment="top" usebox="none">
+<cell alignment="center" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="center" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\series bold
+Project Co-PIs:
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" usebox="none">
 \begin_inset Text
 
 \begin_layout Plain Layout
@@ -636,28 +737,6 @@ Person-months / year:
 
 \begin_layout Plain Layout
 
-\end_layout
-
-\end_inset
-</cell>
-</row>
-<row>
-<cell alignment="left" valignment="top" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-
-\series bold
-Status:
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="left" valignment="top" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-Current
 \end_layout
 
 \end_inset
@@ -681,7 +760,7 @@ Current
 \begin_layout Labeling
 \labelwidthstring 00.00.0000
 \begin_inset Tabular
-<lyxtabular version="3" rows="7" columns="2">
+<lyxtabular version="3" rows="8" columns="2">
 <features tabularvalignment="middle">
 <column alignment="left" valignment="top">
 <column alignment="left" valignment="top">
@@ -701,25 +780,47 @@ Project Title:
 \begin_inset Text
 
 \begin_layout Plain Layout
-Proposal title
+
 \end_layout
 
 \end_inset
 </cell>
 </row>
 <row>
-<cell alignment="left" valignment="top" usebox="none">
+<cell alignment="center" valignment="top" usebox="none">
 \begin_inset Text
 
 \begin_layout Plain Layout
 
 \series bold
-Project Location:
+Project PI:
 \end_layout
 
 \end_inset
 </cell>
-<cell alignment="none" valignment="top" usebox="none">
+<cell alignment="center" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="center" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\series bold
+Project Co-PIs:
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" usebox="none">
 \begin_inset Text
 
 \begin_layout Plain Layout
@@ -818,22 +919,32 @@ Person-months / year:
 </cell>
 </row>
 <row>
-<cell alignment="left" valignment="top" usebox="none">
+<cell alignment="center" valignment="top" usebox="none">
 \begin_inset Text
 
 \begin_layout Plain Layout
 
 \series bold
-Status:
+Overlap:
 \end_layout
 
 \end_inset
 </cell>
-<cell alignment="left" valignment="top" usebox="none">
+<cell alignment="center" valignment="top" usebox="none">
 \begin_inset Text
 
 \begin_layout Plain Layout
-Current
+There is no overlap with the proposed work 
+\begin_inset Note Note
+status open
+
+\begin_layout Plain Layout
+adjust/explain if different
+\end_layout
+
+\end_inset
+
+
 \end_layout
 
 \end_inset
