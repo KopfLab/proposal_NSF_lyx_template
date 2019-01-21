@@ -114,7 +114,7 @@ This section of the proposal calls for required information on all current
 If the project now being submitted has been funded previously by a source
  other than NSF, the information requested in the paragraph above must be
  furnished for the last period of funding.
- 
+
 \end_layout
 
 \end_inset
@@ -165,8 +165,8 @@ Current
 \begin_inset Tabular
 <lyxtabular version="3" rows="8" columns="2">
 <features tabularvalignment="middle">
-<column alignment="left" valignment="top">
-<column alignment="left" valignment="top">
+<column alignment="left" valignment="top" width="23text%">
+<column alignment="left" valignment="top" width="77text%">
 <row>
 <cell alignment="left" valignment="top" usebox="none">
 \begin_inset Text
@@ -337,7 +337,7 @@ Overlap:
 \begin_inset Text
 
 \begin_layout Plain Layout
-There is no overlap with the proposed work 
+There is no overlap with the proposed work
 \begin_inset Note Note
 status open
 
@@ -373,8 +373,8 @@ adjust/explain if different
 \begin_inset Tabular
 <lyxtabular version="3" rows="8" columns="2">
 <features tabularvalignment="middle">
-<column alignment="left" valignment="top">
-<column alignment="left" valignment="top">
+<column alignment="left" valignment="top" width="23text%">
+<column alignment="left" valignment="top" width="77text%">
 <row>
 <cell alignment="left" valignment="top" usebox="none">
 \begin_inset Text
@@ -545,7 +545,7 @@ Overlap:
 \begin_inset Text
 
 \begin_layout Plain Layout
-There is no overlap with the proposed work 
+There is no overlap with the proposed work
 \begin_inset Note Note
 status open
 
@@ -577,8 +577,8 @@ Pending
 \begin_inset Tabular
 <lyxtabular version="3" rows="7" columns="2">
 <features tabularvalignment="middle">
-<column alignment="left" valignment="top">
-<column alignment="left" valignment="top">
+<column alignment="left" valignment="top" width="23text%">
+<column alignment="left" valignment="top" width="77text%">
 <row>
 <cell alignment="left" valignment="top" usebox="none">
 \begin_inset Text
@@ -762,8 +762,8 @@ Person-months / year:
 \begin_inset Tabular
 <lyxtabular version="3" rows="8" columns="2">
 <features tabularvalignment="middle">
-<column alignment="left" valignment="top">
-<column alignment="left" valignment="top">
+<column alignment="left" valignment="top" width="23text%">
+<column alignment="left" valignment="top" width="77text%">
 <row>
 <cell alignment="left" valignment="top" usebox="none">
 \begin_inset Text
@@ -934,7 +934,7 @@ Overlap:
 \begin_inset Text
 
 \begin_layout Plain Layout
-There is no overlap with the proposed work 
+There is no overlap with the proposed work
 \begin_inset Note Note
 status open
 
