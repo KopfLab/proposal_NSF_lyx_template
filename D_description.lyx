@@ -1601,7 +1601,10 @@ Citation style for order of occurence with numbers in text:
 \end_layout
 
 \begin_layout Plain Layout
-- Biblatex citation style: numeric (the default)
+- Biblatex citation style: numeric (the default) or for condensed numbers
+ (2-4 instead of 2,3,4), use style 
+\series bold
+science
 \end_layout
 
 \begin_layout Plain Layout
