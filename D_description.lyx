@@ -47,6 +47,7 @@
 \cite_engine biblatex-natbib
 \cite_engine_type numerical
 \biblio_style \use_bibtopic true
+\biblio_options url = false
 \biblatex_bibstyle numeric
 \biblatex_citestyle trad-unsrt
 \use_bibtopic false
@@ -1521,6 +1522,15 @@ citep
 supercite 
 \series default
 throughout the document sources)
+\end_layout
+
+\begin_layout Plain Layout
+Note on urls -> disable URL and DOI display throughout using the 
+\series bold
+url = false
+\series default
+ option in Menu -> Document -> Settings -> Bibliography -> Options: (ideally
+ would keep DOI and omit URL, not sure how that is best done).
 \end_layout
 
 \begin_layout Plain Layout
