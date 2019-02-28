@@ -23,6 +23,7 @@
 \fancyhf{}
 \fancyfoot[R]{\thepage}
 
+\RequirePackage{caption}
 \RequirePackage{titlecaps}
 \RequirePackage[explicit]{titlesec}
 % section titles with underline

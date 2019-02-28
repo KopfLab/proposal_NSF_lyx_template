@@ -246,7 +246,7 @@ reference "fig:example2"
 placement H
 wide false
 sideways false
-status collapsed
+status open
 
 \begin_layout Plain Layout
 \align center
@@ -301,6 +301,10 @@ literal "true"
 
 .
  
+\begin_inset VSpace 4cm
+\end_inset
+
+
 \end_layout
 
 \end_inset
@@ -365,7 +369,7 @@ Click on the float: Figure to expand & edit the figure.
 placement H
 wide false
 sideways false
-status collapsed
+status open
 
 \begin_layout Plain Layout
 \align center
@@ -395,6 +399,67 @@ This is a figure with the caption underneath.
 \end_inset
 
 
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Note Note
+status open
+
+\begin_layout Plain Layout
+Click on the float: Figure to expand & edit the figure.
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Box Frameless
+position "t"
+hor_pos "c"
+has_inner_box 1
+inner_pos "t"
+use_parbox 0
+use_makebox 0
+width "100col%"
+special "none"
+height "1in"
+height_special "totalheight"
+thickness "0.4pt"
+separation "3pt"
+shadowsize "4pt"
+framecolor "black"
+backgroundcolor "none"
+status open
+
+\begin_layout Plain Layout
+\align center
+\begin_inset Graphics
+	filename figures/example.pdf
+	lyxscale 50
+	width 100text%
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Plain Layout
+\align center
+\begin_inset CommandInset label
+LatexCommand label
+name "fig:example3"
+
+\end_inset
+
+This is a figure that is not floating (i.e.
+ always exactly in the current position) with the caption underneath.
 \end_layout
 
 \end_inset

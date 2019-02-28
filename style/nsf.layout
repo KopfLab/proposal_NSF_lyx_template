@@ -49,3 +49,8 @@ Style ProposalExcludedReviewer
 	  Color Red
 	EndFont
 End
+
+Style MinipageFigureCaption
+	LatexType Command
+	LatexName captionof{figure}
+End
