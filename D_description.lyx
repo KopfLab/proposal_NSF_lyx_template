@@ -239,6 +239,17 @@ reference "fig:example2"
 \end_inset
 
 .
+ For a non-floating example, see Figure 
+\begin_inset CommandInset ref
+LatexCommand ref
+reference "fig:example3"
+plural "false"
+caps "false"
+noprefix "false"
+
+\end_inset
+
+.
 \end_layout
 
 \begin_layout Standard
@@ -393,7 +404,8 @@ name "fig:example2"
 
 \end_inset
 
-This is a figure with the caption underneath.
+This is a floating figure with the caption underneath (it will be placed
+ where it best fits but as close as possible to its actual in document location).
 \end_layout
 
 \end_inset
@@ -450,16 +462,16 @@ status open
 
 \end_layout
 
-\begin_layout Plain Layout
-\align center
+\begin_layout MinipageFigureCaption
+This is a figure that is not floating (i.e.
+ always exactly in the current position) with the caption underneath.
 \begin_inset CommandInset label
 LatexCommand label
 name "fig:example3"
 
 \end_inset
 
-This is a figure that is not floating (i.e.
- always exactly in the current position) with the caption underneath.
+
 \end_layout
 
 \end_inset
