@@ -90,6 +90,15 @@ Project Description
 \end_layout
 
 \begin_layout Standard
+\noindent
+\align center
+
+\size larger
+\emph on
+My fancy title
+\end_layout
+
+\begin_layout Standard
 \begin_inset Note Note
 status open
 
@@ -178,18 +187,28 @@ Any substantial collaboration with individuals not included in the budget
 \end_layout
 
 \begin_layout Subsection
-1.
- Introduction and Specific Aims
+Introduction and Specific Aims
 \end_layout
 
 \begin_layout Subsection
-2.
- Background
+Background
 \end_layout
 
 \begin_layout Subsection
-3.
- Research Plan
+Research Plan
+\end_layout
+
+\begin_layout Standard
+\begin_inset Note Note
+status open
+
+\begin_layout Plain Layout
+modify style/nsf.cls to enable/disable numbering of the sub(sub)sections
+\end_layout
+
+\end_inset
+
+
 \end_layout
 
 \begin_layout Subsubsection
@@ -1310,8 +1329,7 @@ Specific Aim 3:
 \end_layout
 
 \begin_layout Subsection
-4.
- Broader Impacts of the Proposed Work
+Broader Impacts
 \end_layout
 
 \begin_layout Standard
@@ -1364,8 +1382,7 @@ Communication of Research
 \end_layout
 
 \begin_layout Subsection
-5.
- Management plan and personnel
+Management plan and personnel
 \end_layout
 
 \begin_layout Standard
@@ -1394,8 +1411,7 @@ Timeline
 \end_layout
 
 \begin_layout Subsection
-6.
- Results from Prior NSF Support
+Results from Prior NSF Support
 \end_layout
 
 \begin_layout Standard

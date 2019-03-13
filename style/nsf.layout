@@ -16,7 +16,7 @@ End
 
 Style ProposalRunningTitle
 	LatexType Command
-	LatexName fancyfoot[L]
+	LatexName comment
   Align Center
   Font
 	  Size Larger
