@@ -47,6 +47,11 @@
 
 \setlength{\belowcaptionskip}{-10pt}
 
+% list spacing
+\usepackage{enumitem}
+\setlist{noitemsep} % list items
+%\setlist{nosep} % whole list
+
 % Reset page numbering to 1.  This is helpful, since the text can only
 % be 15 pages (unless otherwise specified, see individual solicitations),
 % and reviewers will want to believe we've kept it within those limits

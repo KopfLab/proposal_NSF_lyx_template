@@ -188,6 +188,16 @@ Any substantial collaboration with individuals not included in the budget
 
 \begin_layout Subsection
 Introduction and Specific Aims
+\begin_inset Note Note
+status open
+
+\begin_layout Plain Layout
+baby, werewolf, silver bullet
+\end_layout
+
+\end_inset
+
+
 \end_layout
 
 \begin_layout Subsection
@@ -1318,6 +1328,51 @@ Click on the float: Table to expand & edit the table.
 
 \begin_layout Subsubsection
 Specific Aim 1:
+\end_layout
+
+\begin_layout Standard
+
+\series bold
+Rationale: 
+\series default
+this is the rationale
+\end_layout
+
+\begin_layout Standard
+\noindent
+
+\series bold
+Specific tasks to be completed
+\end_layout
+
+\begin_layout Itemize
+task 1
+\end_layout
+
+\begin_layout Itemize
+task 2
+\end_layout
+
+\begin_layout Standard
+
+\series bold
+Detailed plan and methods
+\end_layout
+
+\begin_layout Standard
+
+\bar under
+Method 1:
+\bar default
+ this is my method
+\end_layout
+
+\begin_layout Standard
+
+\bar under
+Plan 1
+\bar default
+: this my plan
 \end_layout
 
 \begin_layout Subsubsection
